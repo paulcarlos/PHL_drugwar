@@ -4,7 +4,7 @@
 Sys.setLanguage("en")
 
 # load data for ALL AGES
-load("modeloutputs_allage.rda")
+rrdf <- read.csv("relativerisks_allage.csv")
 
 # subset rows for Firearms and with RR values
 d1 <- rrdf[!is.na(rrdf$rr) & rrdf$type == "Firearms",]
@@ -42,7 +42,7 @@ rm(list=ls()); gc()
 Sys.setLanguage("en")
 
 # load data for ALL AGES
-load("modeloutputs_allage.rda")
+rrdf <- read.csv("relativerisks_allage.csv")
 wpat <- read.csv("fira_signifweeks.csv")
 acled <- read.csv("acled_weekly_2026-07-20.csv")
 
