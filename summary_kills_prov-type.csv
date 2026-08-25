@@ -1,0 +1,2143 @@
+"type","prov","age","cause","kill","lci","uci"
+"uncons","Ilocos Norte","all","Firearms",0,0,0
+"uncons","Ilocos Norte","u18","Firearms",0,0,0
+"cons","Ilocos Norte","all","Firearms",0,0,0
+"cons","Ilocos Norte","u18","Firearms",0,0,0
+"uncons","Ilocos Sur","all","Firearms",28.9563926152133,17.0526339823448,38.1847531585201
+"cons","Ilocos Sur","all","Firearms",28.9563926152133,17.0526339823448,38.1847531585201
+"uncons","La Union","all","Firearms",29.0937128506288,21.1738716928649,34.6560918077254
+"cons","La Union","all","Firearms",29.0937128506288,21.1738716928649,34.6560918077254
+"uncons","Pangasinan","all","Firearms",191.740148649059,173.088093284613,205.981251818225
+"cons","Pangasinan","all","Firearms",191.740148649059,173.088093284613,205.981251818225
+"uncons","Cagayan","all","Firearms",40.6747245150559,17.1562794369071,57.1607831133876
+"cons","Cagayan","all","Firearms",40.6747245150559,17.1562794369071,57.1607831133876
+"uncons","Isabela","all","Firearms",89.821389352936,65.9637345129259,109.394700775234
+"cons","Isabela","all","Firearms",89.821389352936,65.9637345129259,109.394700775234
+"uncons","Bataan","all","Firearms",9.7480139118925,4.41700802226925,13.2830883990614
+"cons","Bataan","all","Firearms",9.7480139118925,4.41700802226925,13.2830883990614
+"uncons","Bulacan","all","Firearms",711.958651157184,544.601432590922,840.706372904667
+"cons","Bulacan","all","Firearms",711.958651157184,544.601432590922,840.706372904667
+"uncons","Nueva Ecija","all","Firearms",307.157017680447,229.53546951402,368.210130248172
+"cons","Nueva Ecija","all","Firearms",307.157017680447,229.53546951402,368.210130248172
+"uncons","Pampanga","all","Firearms",105.315828281362,66.1946894395676,132.495852902747
+"cons","Pampanga","all","Firearms",105.315828281362,66.1946894395676,132.495852902747
+"uncons","Tarlac","all","Firearms",101.953879574484,58.339502119467,127.386832328091
+"cons","Tarlac","all","Firearms",101.953879574484,58.339502119467,127.386832328091
+"uncons","Zambales","all","Firearms",33.5004443740394,23.7722398925989,39.6480480778004
+"cons","Zambales","all","Firearms",33.5004443740394,23.7722398925989,39.6480480778004
+"uncons","Batangas","all","Firearms",72.4895831238794,38.6983637859109,99.4923968052929
+"cons","Batangas","all","Firearms",72.4895831238794,38.6983637859109,99.4923968052929
+"uncons","Cavite","all","Firearms",74.5350864075617,49.5163962136553,96.57417836067
+"cons","Cavite","all","Firearms",74.5350864075617,49.5163962136553,96.57417836067
+"uncons","Laguna","all","Firearms",134.185331279508,71.352157081605,187.474574463334
+"cons","Laguna","all","Firearms",134.185331279508,71.352157081605,187.474574463334
+"uncons","Quezon","all","Firearms",54.6564903422368,36.1641522913901,68.5938582680109
+"cons","Quezon","all","Firearms",54.6564903422368,36.1641522913901,68.5938582680109
+"uncons","Rizal","all","Firearms",270.50886207771,201.290344747775,328.007362208448
+"cons","Rizal","all","Firearms",270.50886207771,201.290344747775,328.007362208448
+"uncons","Albay","all","Firearms",68.65264128945,36.4725964951355,91.2712171797495
+"cons","Albay","all","Firearms",68.65264128945,36.4725964951355,91.2712171797495
+"uncons","Camarines Sur","all","Firearms",29.7113050908193,15.0747761806895,39.5871206056375
+"cons","Camarines Sur","all","Firearms",29.7113050908193,15.0747761806895,39.5871206056375
+"uncons","Masbate","all","Firearms",8.56421882418825,2.92683224216403,12.6975062584467
+"cons","Masbate","all","Firearms",8.56421882418825,2.92683224216403,12.6975062584467
+"uncons","Sorsogon","all","Firearms",0,0,0
+"uncons","Sorsogon","u18","Firearms",0,0,0
+"cons","Sorsogon","all","Firearms",0,0,0
+"cons","Sorsogon","u18","Firearms",0,0,0
+"uncons","Antique","all","Firearms",0,0,0
+"uncons","Antique","u18","Firearms",0,0,0
+"cons","Antique","all","Firearms",0,0,0
+"cons","Antique","u18","Firearms",0,0,0
+"uncons","Capiz","all","Firearms",0,0,0
+"uncons","Capiz","u18","Firearms",0,0,0
+"cons","Capiz","all","Firearms",0,0,0
+"cons","Capiz","u18","Firearms",0,0,0
+"uncons","Iloilo","all","Firearms",0,0,0
+"uncons","Iloilo","u18","Firearms",0,0,0
+"cons","Iloilo","all","Firearms",0,0,0
+"cons","Iloilo","u18","Firearms",0,0,0
+"uncons","Negros Occidental","all","Firearms",0,0,0
+"uncons","Negros Occidental","u18","Firearms",0,0,0
+"cons","Negros Occidental","all","Firearms",0,0,0
+"cons","Negros Occidental","u18","Firearms",0,0,0
+"uncons","Bohol","all","Firearms",34.7347729579593,27.2605287324036,40.5747952592256
+"cons","Bohol","all","Firearms",34.7347729579593,27.2605287324036,40.5747952592256
+"uncons","Cebu","all","Firearms",339.363024898227,240.969036926206,422.304733956878
+"cons","Cebu","all","Firearms",339.363024898227,240.969036926206,422.304733956878
+"uncons","Negros Oriental","all","Firearms",92.1811393067618,44.3634959907956,124.562655938739
+"cons","Negros Oriental","all","Firearms",92.1811393067618,44.3634959907956,124.562655938739
+"uncons","Leyte","all","Firearms",29.1483603059274,12.9971646059904,41.2752588436352
+"cons","Leyte","all","Firearms",29.1483603059274,12.9971646059904,41.2752588436352
+"uncons","Northern Samar","all","Firearms",0,0,0
+"uncons","Northern Samar","u18","Firearms",0,0,0
+"cons","Northern Samar","all","Firearms",0,0,0
+"cons","Northern Samar","u18","Firearms",0,0,0
+"uncons","Samar","all","Firearms",12.4171768720785,5.06075463371465,17.4459244094029
+"cons","Samar","all","Firearms",12.4171768720785,5.06075463371465,17.4459244094029
+"uncons","Zamboanga del Norte","all","Firearms",30.9158408582172,20.073797725288,38.7643163456132
+"cons","Zamboanga del Norte","all","Firearms",30.9158408582172,20.073797725288,38.7643163456132
+"uncons","Zamboanga del Sur","all","Firearms",0,0,0
+"uncons","Zamboanga del Sur","u18","Firearms",0,0,0
+"cons","Zamboanga del Sur","all","Firearms",0,0,0
+"cons","Zamboanga del Sur","u18","Firearms",0,0,0
+"uncons","Zamboanga Sibugay","all","Firearms",0,0,0
+"uncons","Zamboanga Sibugay","u18","Firearms",0,0,0
+"cons","Zamboanga Sibugay","all","Firearms",0,0,0
+"cons","Zamboanga Sibugay","u18","Firearms",0,0,0
+"uncons","Bukidnon","all","Firearms",0,0,0
+"uncons","Bukidnon","u18","Firearms",0,0,0
+"cons","Bukidnon","all","Firearms",0,0,0
+"cons","Bukidnon","u18","Firearms",0,0,0
+"uncons","Lanao del Norte","all","Firearms",43.9593891239158,29.1046484982978,54.9209597823773
+"cons","Lanao del Norte","all","Firearms",43.9593891239158,29.1046484982978,54.9209597823773
+"uncons","Misamis Occidental","all","Firearms",19.2466379307425,8.57452506872531,27.1175944442897
+"cons","Misamis Occidental","all","Firearms",19.2466379307425,8.57452506872531,27.1175944442897
+"uncons","Misamis Oriental","all","Firearms",20.40395831589,5.81029763049291,29.7396762987732
+"cons","Misamis Oriental","all","Firearms",20.40395831589,5.81029763049291,29.7396762987732
+"uncons","Davao del Norte","all","Firearms",166.921689720104,119.153837681702,205.551959534294
+"cons","Davao del Norte","all","Firearms",166.921689720104,119.153837681702,205.551959534294
+"uncons","Davao del Sur","all","Firearms",30.5554678098722,14.0907024747686,42.5874156182641
+"cons","Davao del Sur","all","Firearms",30.5554678098722,14.0907024747686,42.5874156182641
+"uncons","Davao Oriental","all","Firearms",54.6086115991421,31.8812739150993,72.9836653054072
+"cons","Davao Oriental","all","Firearms",54.6086115991421,31.8812739150993,72.9836653054072
+"uncons","Compostela Valley","all","Firearms",105.771054006075,76.1028524086828,128.02035522867
+"cons","Compostela Valley","all","Firearms",105.771054006075,76.1028524086828,128.02035522867
+"uncons","Cotabato","all","Firearms",118.002092142362,45.2501502278816,173.846731281867
+"cons","Cotabato","all","Firearms",118.002092142362,45.2501502278816,173.846731281867
+"uncons","South Cotabato","all","Firearms",37.0179012972249,5.9878622228076,60.7253083357358
+"cons","South Cotabato","all","Firearms",37.0179012972249,5.9878622228076,60.7253083357358
+"uncons","Sultan Kudarat","all","Firearms",68.4288129605026,30.5887347875748,97.0348435873706
+"cons","Sultan Kudarat","all","Firearms",68.4288129605026,30.5887347875748,97.0348435873706
+"uncons","National Capital Region","all","Firearms",2581.12841608018,2394.97454884516,2752.18245862557
+"cons","National Capital Region","all","Firearms",2581.12841608018,2394.97454884516,2752.18245862557
+"uncons","National Capital Region","u18","Firearms",27.2866914124069,11.9163718856294,38.0044914585811
+"cons","National Capital Region","u18","Firearms",27.2866914124069,11.9163718856294,38.0044914585811
+"uncons","Abra","all","Firearms",0,0,0
+"uncons","Abra","u18","Firearms",0,0,0
+"cons","Abra","all","Firearms",0,0,0
+"cons","Abra","u18","Firearms",0,0,0
+"uncons","Agusan del Norte","all","Firearms",56.6042861598592,40.6133550726289,67.14484896111
+"cons","Agusan del Norte","all","Firearms",56.6042861598592,40.6133550726289,67.14484896111
+"uncons","Agusan del Sur","all","Firearms",17.4772942283065,4.25267686944183,28.1413261719092
+"cons","Agusan del Sur","all","Firearms",17.4772942283065,4.25267686944183,28.1413261719092
+"uncons","Surigao del Norte","all","Firearms",25.0766309370845,13.180750667992,32.4670857670909
+"cons","Surigao del Norte","all","Firearms",25.0766309370845,13.180750667992,32.4670857670909
+"uncons","Surigao del Sur","all","Firearms",0,0,0
+"uncons","Surigao del Sur","u18","Firearms",0,0,0
+"cons","Surigao del Sur","all","Firearms",0,0,0
+"cons","Surigao del Sur","u18","Firearms",0,0,0
+"uncons","Oriental Mindoro","all","Firearms",3.91435309214359,0.725098974244299,5.90764286315374
+"cons","Oriental Mindoro","all","Firearms",3.91435309214359,0.725098974244299,5.90764286315374
+"uncons","Pangasinan","all","Assault",0,0,0
+"uncons","Pangasinan","u18","Assault",0,0,0
+"cons","Pangasinan","all","Assault",0,0,0
+"cons","Pangasinan","u18","Assault",0,0,0
+"uncons","Cagayan","all","Assault",0,0,0
+"uncons","Cagayan","u18","Assault",0,0,0
+"cons","Cagayan","all","Assault",0,0,0
+"cons","Cagayan","u18","Assault",0,0,0
+"uncons","Isabela","all","Assault",0,0,0
+"uncons","Isabela","u18","Assault",0,0,0
+"cons","Isabela","all","Assault",0,0,0
+"cons","Isabela","u18","Assault",0,0,0
+"uncons","Bulacan","all","Assault",0,0,0
+"uncons","Bulacan","u18","Assault",0,0,0
+"cons","Bulacan","all","Assault",0,0,0
+"cons","Bulacan","u18","Assault",0,0,0
+"uncons","Nueva Ecija","all","Assault",0,0,0
+"uncons","Nueva Ecija","u18","Assault",0,0,0
+"cons","Nueva Ecija","all","Assault",0,0,0
+"cons","Nueva Ecija","u18","Assault",0,0,0
+"uncons","Pampanga","all","Assault",0,0,0
+"uncons","Pampanga","u18","Assault",0,0,0
+"cons","Pampanga","all","Assault",0,0,0
+"cons","Pampanga","u18","Assault",0,0,0
+"uncons","Batangas","all","Assault",0,0,0
+"uncons","Batangas","u18","Assault",0,0,0
+"cons","Batangas","all","Assault",0,0,0
+"cons","Batangas","u18","Assault",0,0,0
+"uncons","Cavite","all","Assault",0,0,0
+"uncons","Cavite","u18","Assault",0,0,0
+"cons","Cavite","all","Assault",0,0,0
+"cons","Cavite","u18","Assault",0,0,0
+"uncons","Laguna","all","Assault",0,0,0
+"uncons","Laguna","u18","Assault",0,0,0
+"cons","Laguna","all","Assault",0,0,0
+"cons","Laguna","u18","Assault",0,0,0
+"uncons","Quezon","all","Assault",0,0,0
+"uncons","Quezon","u18","Assault",0,0,0
+"cons","Quezon","all","Assault",0,0,0
+"cons","Quezon","u18","Assault",0,0,0
+"uncons","Rizal","all","Assault",0,0,0
+"uncons","Rizal","u18","Assault",0,0,0
+"cons","Rizal","all","Assault",0,0,0
+"cons","Rizal","u18","Assault",0,0,0
+"uncons","Albay","all","Assault",0,0,0
+"uncons","Albay","u18","Assault",0,0,0
+"cons","Albay","all","Assault",0,0,0
+"cons","Albay","u18","Assault",0,0,0
+"uncons","Camarines Sur","all","Assault",0,0,0
+"uncons","Camarines Sur","u18","Assault",0,0,0
+"cons","Camarines Sur","all","Assault",0,0,0
+"cons","Camarines Sur","u18","Assault",0,0,0
+"uncons","Masbate","all","Assault",0,0,0
+"uncons","Masbate","u18","Assault",0,0,0
+"cons","Masbate","all","Assault",0,0,0
+"cons","Masbate","u18","Assault",0,0,0
+"uncons","Aklan","all","Assault",0,0,0
+"uncons","Aklan","u18","Assault",0,0,0
+"cons","Aklan","all","Assault",0,0,0
+"cons","Aklan","u18","Assault",0,0,0
+"uncons","Antique","all","Assault",0,0,0
+"uncons","Antique","u18","Assault",0,0,0
+"cons","Antique","all","Assault",0,0,0
+"cons","Antique","u18","Assault",0,0,0
+"uncons","Capiz","all","Assault",0,0,0
+"uncons","Capiz","u18","Assault",0,0,0
+"cons","Capiz","all","Assault",0,0,0
+"cons","Capiz","u18","Assault",0,0,0
+"uncons","Iloilo","all","Assault",0,0,0
+"uncons","Iloilo","u18","Assault",0,0,0
+"cons","Iloilo","all","Assault",0,0,0
+"cons","Iloilo","u18","Assault",0,0,0
+"uncons","Negros Occidental","all","Assault",0,0,0
+"uncons","Negros Occidental","u18","Assault",0,0,0
+"cons","Negros Occidental","all","Assault",0,0,0
+"cons","Negros Occidental","u18","Assault",0,0,0
+"uncons","Bohol","all","Assault",14.1519022721774,7.47844168408771,18.3578030782329
+"cons","Bohol","all","Assault",14.1519022721774,7.47844168408771,18.3578030782329
+"uncons","Cebu","all","Assault",0,0,0
+"uncons","Cebu","u18","Assault",0,0,0
+"cons","Cebu","all","Assault",0,0,0
+"cons","Cebu","u18","Assault",0,0,0
+"uncons","Negros Oriental","all","Assault",0,0,0
+"uncons","Negros Oriental","u18","Assault",0,0,0
+"cons","Negros Oriental","all","Assault",0,0,0
+"cons","Negros Oriental","u18","Assault",0,0,0
+"uncons","Leyte","all","Assault",0,0,0
+"uncons","Leyte","u18","Assault",0,0,0
+"cons","Leyte","all","Assault",0,0,0
+"cons","Leyte","u18","Assault",0,0,0
+"uncons","Northern Samar","all","Assault",0,0,0
+"uncons","Northern Samar","u18","Assault",0,0,0
+"cons","Northern Samar","all","Assault",0,0,0
+"cons","Northern Samar","u18","Assault",0,0,0
+"uncons","Samar","all","Assault",3.05898031922532,0.305167742301173,4.6562166676576
+"cons","Samar","all","Assault",3.05898031922532,0.305167742301173,4.6562166676576
+"uncons","Zamboanga del Norte","all","Assault",0,0,0
+"uncons","Zamboanga del Norte","u18","Assault",0,0,0
+"cons","Zamboanga del Norte","all","Assault",0,0,0
+"cons","Zamboanga del Norte","u18","Assault",0,0,0
+"uncons","Zamboanga del Sur","all","Assault",0,0,0
+"uncons","Zamboanga del Sur","u18","Assault",0,0,0
+"cons","Zamboanga del Sur","all","Assault",0,0,0
+"cons","Zamboanga del Sur","u18","Assault",0,0,0
+"uncons","Bukidnon","all","Assault",0,0,0
+"uncons","Bukidnon","u18","Assault",0,0,0
+"cons","Bukidnon","all","Assault",0,0,0
+"cons","Bukidnon","u18","Assault",0,0,0
+"uncons","Misamis Oriental","all","Assault",0,0,0
+"uncons","Misamis Oriental","u18","Assault",0,0,0
+"cons","Misamis Oriental","all","Assault",0,0,0
+"cons","Misamis Oriental","u18","Assault",0,0,0
+"uncons","Davao del Norte","all","Assault",20.9170905431064,10.3797631520549,29.1815323048529
+"cons","Davao del Norte","all","Assault",20.9170905431064,10.3797631520549,29.1815323048529
+"uncons","Davao del Sur","all","Assault",0,0,0
+"uncons","Davao del Sur","u18","Assault",0,0,0
+"cons","Davao del Sur","all","Assault",0,0,0
+"cons","Davao del Sur","u18","Assault",0,0,0
+"uncons","Davao Oriental","all","Assault",0,0,0
+"uncons","Davao Oriental","u18","Assault",0,0,0
+"cons","Davao Oriental","all","Assault",0,0,0
+"cons","Davao Oriental","u18","Assault",0,0,0
+"uncons","Compostela Valley","all","Assault",0,0,0
+"uncons","Compostela Valley","u18","Assault",0,0,0
+"cons","Compostela Valley","all","Assault",0,0,0
+"cons","Compostela Valley","u18","Assault",0,0,0
+"uncons","Cotabato","all","Assault",0,0,0
+"uncons","Cotabato","u18","Assault",0,0,0
+"cons","Cotabato","all","Assault",0,0,0
+"cons","Cotabato","u18","Assault",0,0,0
+"uncons","South Cotabato","all","Assault",0,0,0
+"uncons","South Cotabato","u18","Assault",0,0,0
+"cons","South Cotabato","all","Assault",0,0,0
+"cons","South Cotabato","u18","Assault",0,0,0
+"uncons","National Capital Region","all","Assault",0,0,0
+"uncons","National Capital Region","u18","Assault",0,0,0
+"cons","National Capital Region","all","Assault",0,0,0
+"cons","National Capital Region","u18","Assault",0,0,0
+"uncons","Agusan del Sur","all","Assault",0,0,0
+"uncons","Agusan del Sur","u18","Assault",0,0,0
+"cons","Agusan del Sur","all","Assault",0,0,0
+"cons","Agusan del Sur","u18","Assault",0,0,0
+"uncons","Surigao del Sur","all","Assault",0,0,0
+"uncons","Surigao del Sur","u18","Assault",0,0,0
+"cons","Surigao del Sur","all","Assault",0,0,0
+"cons","Surigao del Sur","u18","Assault",0,0,0
+"uncons","Palawan","all","Assault",0,0,0
+"uncons","Palawan","u18","Assault",0,0,0
+"cons","Palawan","all","Assault",0,0,0
+"cons","Palawan","u18","Assault",0,0,0
+"uncons","Ilocos Norte","all","Undetermined Intent",36.7880086209945,13.1705762029616,51.9305937516247
+"cons","Ilocos Norte","all","Undetermined Intent",36.7880086209945,13.1705762029616,51.9305937516247
+"uncons","Ilocos Sur","all","Undetermined Intent",0,0,0
+"uncons","Ilocos Sur","u18","Undetermined Intent",0,0,0
+"cons","Ilocos Sur","all","Undetermined Intent",0,0,0
+"cons","Ilocos Sur","u18","Undetermined Intent",0,0,0
+"uncons","La Union","all","Undetermined Intent",0,0,0
+"uncons","La Union","u18","Undetermined Intent",0,0,0
+"cons","La Union","all","Undetermined Intent",0,0,0
+"cons","La Union","u18","Undetermined Intent",0,0,0
+"uncons","Pangasinan","all","Undetermined Intent",75.230112578151,27.8887927242361,110.915453537226
+"cons","Pangasinan","all","Undetermined Intent",75.230112578151,27.8887927242361,110.915453537226
+"uncons","Cagayan","all","Undetermined Intent",0,0,0
+"uncons","Cagayan","u18","Undetermined Intent",0,0,0
+"cons","Cagayan","all","Undetermined Intent",0,0,0
+"cons","Cagayan","u18","Undetermined Intent",0,0,0
+"uncons","Isabela","all","Undetermined Intent",0,0,0
+"uncons","Isabela","u18","Undetermined Intent",0,0,0
+"cons","Isabela","all","Undetermined Intent",0,0,0
+"cons","Isabela","u18","Undetermined Intent",0,0,0
+"uncons","Bataan","all","Undetermined Intent",0,0,0
+"uncons","Bataan","u18","Undetermined Intent",0,0,0
+"cons","Bataan","all","Undetermined Intent",0,0,0
+"cons","Bataan","u18","Undetermined Intent",0,0,0
+"uncons","Bulacan","all","Undetermined Intent",31.2478450535501,14.623002686617,43.9587672904925
+"cons","Bulacan","all","Undetermined Intent",31.2478450535501,14.623002686617,43.9587672904925
+"uncons","Nueva Ecija","all","Undetermined Intent",48.1468555630856,26.273751727914,65.0055698644217
+"cons","Nueva Ecija","all","Undetermined Intent",48.1468555630856,26.273751727914,65.0055698644217
+"uncons","Pampanga","all","Undetermined Intent",3.54418833862349,0.0737140270694885,6.13658746275749
+"cons","Pampanga","all","Undetermined Intent",3.54418833862349,0.0737140270694885,6.13658746275749
+"uncons","Tarlac","all","Undetermined Intent",9.08485724296991,4.5670922886346,12.3104811334179
+"cons","Tarlac","all","Undetermined Intent",9.08485724296991,4.5670922886346,12.3104811334179
+"uncons","Zambales","all","Undetermined Intent",0,0,0
+"uncons","Zambales","u18","Undetermined Intent",0,0,0
+"cons","Zambales","all","Undetermined Intent",0,0,0
+"cons","Zambales","u18","Undetermined Intent",0,0,0
+"uncons","Batangas","all","Undetermined Intent",30.2556327944679,4.7471987756032,51.452498099054
+"cons","Batangas","all","Undetermined Intent",30.2556327944679,4.7471987756032,51.452498099054
+"uncons","Cavite","all","Undetermined Intent",58.3593627600412,20.3556918367581,87.2543391291908
+"cons","Cavite","all","Undetermined Intent",58.3593627600412,20.3556918367581,87.2543391291908
+"uncons","Laguna","all","Undetermined Intent",0,0,0
+"uncons","Laguna","u18","Undetermined Intent",0,0,0
+"cons","Laguna","all","Undetermined Intent",0,0,0
+"cons","Laguna","u18","Undetermined Intent",0,0,0
+"uncons","Quezon","all","Undetermined Intent",0,0,0
+"uncons","Quezon","u18","Undetermined Intent",0,0,0
+"cons","Quezon","all","Undetermined Intent",0,0,0
+"cons","Quezon","u18","Undetermined Intent",0,0,0
+"uncons","Rizal","all","Undetermined Intent",9.69730885836949,2.81113539095534,14.7900856637011
+"cons","Rizal","all","Undetermined Intent",9.69730885836949,2.81113539095534,14.7900856637011
+"uncons","Albay","all","Undetermined Intent",0,0,0
+"uncons","Albay","u18","Undetermined Intent",0,0,0
+"cons","Albay","all","Undetermined Intent",0,0,0
+"cons","Albay","u18","Undetermined Intent",0,0,0
+"uncons","Camarines Sur","all","Undetermined Intent",0,0,0
+"uncons","Camarines Sur","u18","Undetermined Intent",0,0,0
+"cons","Camarines Sur","all","Undetermined Intent",0,0,0
+"cons","Camarines Sur","u18","Undetermined Intent",0,0,0
+"uncons","Masbate","all","Undetermined Intent",0,0,0
+"uncons","Masbate","u18","Undetermined Intent",0,0,0
+"cons","Masbate","all","Undetermined Intent",0,0,0
+"cons","Masbate","u18","Undetermined Intent",0,0,0
+"uncons","Capiz","all","Undetermined Intent",4.52565676218032,0.851219404246302,6.91439451526191
+"cons","Capiz","all","Undetermined Intent",4.52565676218032,0.851219404246302,6.91439451526191
+"uncons","Iloilo","all","Undetermined Intent",7.48272731125095,1.04706959309397,12.0998292581699
+"cons","Iloilo","all","Undetermined Intent",7.48272731125095,1.04706959309397,12.0998292581699
+"uncons","Negros Occidental","all","Undetermined Intent",15.5291441769872,2.35497136252558,25.9382149984598
+"cons","Negros Occidental","all","Undetermined Intent",15.5291441769872,2.35497136252558,25.9382149984598
+"uncons","Bohol","all","Undetermined Intent",0,0,0
+"uncons","Bohol","u18","Undetermined Intent",0,0,0
+"cons","Bohol","all","Undetermined Intent",0,0,0
+"cons","Bohol","u18","Undetermined Intent",0,0,0
+"uncons","Cebu","all","Undetermined Intent",0,0,0
+"uncons","Cebu","u18","Undetermined Intent",0,0,0
+"cons","Cebu","all","Undetermined Intent",0,0,0
+"cons","Cebu","u18","Undetermined Intent",0,0,0
+"uncons","Negros Oriental","all","Undetermined Intent",0,0,0
+"uncons","Negros Oriental","u18","Undetermined Intent",0,0,0
+"cons","Negros Oriental","all","Undetermined Intent",0,0,0
+"cons","Negros Oriental","u18","Undetermined Intent",0,0,0
+"uncons","Leyte","all","Undetermined Intent",0,0,0
+"uncons","Leyte","u18","Undetermined Intent",0,0,0
+"cons","Leyte","all","Undetermined Intent",0,0,0
+"cons","Leyte","u18","Undetermined Intent",0,0,0
+"uncons","Zamboanga del Norte","all","Undetermined Intent",0,0,0
+"uncons","Zamboanga del Norte","u18","Undetermined Intent",0,0,0
+"cons","Zamboanga del Norte","all","Undetermined Intent",0,0,0
+"cons","Zamboanga del Norte","u18","Undetermined Intent",0,0,0
+"uncons","Zamboanga del Sur","all","Undetermined Intent",39.6741635198984,11.1206314574694,58.9212604602269
+"cons","Zamboanga del Sur","all","Undetermined Intent",39.6741635198984,11.1206314574694,58.9212604602269
+"uncons","Bukidnon","all","Undetermined Intent",0,0,0
+"uncons","Bukidnon","u18","Undetermined Intent",0,0,0
+"cons","Bukidnon","all","Undetermined Intent",0,0,0
+"cons","Bukidnon","u18","Undetermined Intent",0,0,0
+"uncons","Lanao del Norte","all","Undetermined Intent",0,0,0
+"uncons","Lanao del Norte","u18","Undetermined Intent",0,0,0
+"cons","Lanao del Norte","all","Undetermined Intent",0,0,0
+"cons","Lanao del Norte","u18","Undetermined Intent",0,0,0
+"uncons","Misamis Occidental","all","Undetermined Intent",0,0,0
+"uncons","Misamis Occidental","u18","Undetermined Intent",0,0,0
+"cons","Misamis Occidental","all","Undetermined Intent",0,0,0
+"cons","Misamis Occidental","u18","Undetermined Intent",0,0,0
+"uncons","Misamis Oriental","all","Undetermined Intent",16.8792296159762,4.58551059986132,25.5629702169819
+"cons","Misamis Oriental","all","Undetermined Intent",16.8792296159762,4.58551059986132,25.5629702169819
+"uncons","Davao del Norte","all","Undetermined Intent",13.3977229082254,3.90597567435596,19.7989861949206
+"cons","Davao del Norte","all","Undetermined Intent",13.3977229082254,3.90597567435596,19.7989861949206
+"uncons","Davao del Sur","all","Undetermined Intent",0,0,0
+"uncons","Davao del Sur","u18","Undetermined Intent",0,0,0
+"cons","Davao del Sur","all","Undetermined Intent",0,0,0
+"cons","Davao del Sur","u18","Undetermined Intent",0,0,0
+"uncons","Davao Oriental","all","Undetermined Intent",0,0,0
+"uncons","Davao Oriental","u18","Undetermined Intent",0,0,0
+"cons","Davao Oriental","all","Undetermined Intent",0,0,0
+"cons","Davao Oriental","u18","Undetermined Intent",0,0,0
+"uncons","Cotabato","all","Undetermined Intent",0,0,0
+"uncons","Cotabato","u18","Undetermined Intent",0,0,0
+"cons","Cotabato","all","Undetermined Intent",0,0,0
+"cons","Cotabato","u18","Undetermined Intent",0,0,0
+"uncons","South Cotabato","all","Undetermined Intent",0,0,0
+"uncons","South Cotabato","u18","Undetermined Intent",0,0,0
+"cons","South Cotabato","all","Undetermined Intent",0,0,0
+"cons","South Cotabato","u18","Undetermined Intent",0,0,0
+"uncons","National Capital Region","all","Undetermined Intent",0,0,0
+"uncons","National Capital Region","u18","Undetermined Intent",0,0,0
+"cons","National Capital Region","all","Undetermined Intent",0,0,0
+"cons","National Capital Region","u18","Undetermined Intent",0,0,0
+"uncons","Benguet","all","Undetermined Intent",0,0,0
+"uncons","Benguet","u18","Undetermined Intent",0,0,0
+"cons","Benguet","all","Undetermined Intent",0,0,0
+"cons","Benguet","u18","Undetermined Intent",0,0,0
+"uncons","Agusan del Norte","all","Undetermined Intent",18.0631539867992,2.34613055891888,28.1459550947349
+"cons","Agusan del Norte","all","Undetermined Intent",18.0631539867992,2.34613055891888,28.1459550947349
+"uncons","Oriental Mindoro","all","Undetermined Intent",8.44978439502817,2.37458448261807,12.1263860534713
+"cons","Oriental Mindoro","all","Undetermined Intent",8.44978439502817,2.37458448261807,12.1263860534713
+"uncons","Palawan","all","Undetermined Intent",0,0,0
+"uncons","Palawan","u18","Undetermined Intent",0,0,0
+"cons","Palawan","all","Undetermined Intent",0,0,0
+"cons","Palawan","u18","Undetermined Intent",0,0,0
+"uncons","Ilocos Norte","all","Pneumonia",96.619118073741,29.9197045716013,154.680527300027
+"cons","Ilocos Norte","all","Pneumonia",7.48387101307043,2.57404848254756,11.8337811775966
+"uncons","Ilocos Sur","all","Pneumonia",207.441359916915,54.0935019459403,333.683404529346
+"cons","Ilocos Sur","all","Pneumonia",29.1749292433483,2.28621137143795,50.9563601854197
+"uncons","La Union","all","Pneumonia",0,0,0
+"uncons","La Union","u18","Pneumonia",0,0,0
+"cons","La Union","all","Pneumonia",0,0,0
+"cons","La Union","u18","Pneumonia",0,0,0
+"uncons","Pangasinan","all","Pneumonia",751.700511631588,334.752564945143,1118.75023096264
+"cons","Pangasinan","all","Pneumonia",174.678581563222,105.652880728076,239.866668800879
+"uncons","Pangasinan","u18","Pneumonia",0,0,0
+"cons","Pangasinan","u18","Pneumonia",0,0,0
+"uncons","Cagayan","all","Pneumonia",0,0,0
+"uncons","Cagayan","u18","Pneumonia",0,0,0
+"cons","Cagayan","all","Pneumonia",0,0,0
+"cons","Cagayan","u18","Pneumonia",0,0,0
+"uncons","Isabela","all","Pneumonia",62.2939672197975,20.4192375268942,96.4226690827295
+"cons","Isabela","all","Pneumonia",40.4482887774309,13.1254651374291,62.5254691829605
+"uncons","Isabela","u18","Pneumonia",0,0,0
+"cons","Isabela","u18","Pneumonia",0,0,0
+"uncons","Nueva Vizcaya","all","Pneumonia",0,0,0
+"uncons","Nueva Vizcaya","u18","Pneumonia",0,0,0
+"cons","Nueva Vizcaya","all","Pneumonia",0,0,0
+"cons","Nueva Vizcaya","u18","Pneumonia",0,0,0
+"uncons","Quirino","all","Pneumonia",0,0,0
+"uncons","Quirino","u18","Pneumonia",0,0,0
+"cons","Quirino","all","Pneumonia",0,0,0
+"cons","Quirino","u18","Pneumonia",0,0,0
+"uncons","Bataan","all","Pneumonia",304.90279688213,165.364726474808,424.701657750107
+"cons","Bataan","all","Pneumonia",19.3222245779193,12.9401824009051,24.8705036033707
+"uncons","Bulacan","all","Pneumonia",333.701527753946,148.141447240905,494.188468294507
+"cons","Bulacan","all","Pneumonia",244.816285667084,126.872194957917,345.078526834389
+"uncons","Bulacan","u18","Pneumonia",5.19620253087574,-0.14406805731013,9.11133476283142
+"cons","Bulacan","u18","Pneumonia",5.19620253087574,-0.14406805731013,9.11133476283142
+"uncons","Nueva Ecija","all","Pneumonia",538.927069257248,283.454826393347,757.056995602483
+"cons","Nueva Ecija","all","Pneumonia",157.286626924449,73.9233471197588,228.016176173986
+"uncons","Nueva Ecija","u18","Pneumonia",0,0,0
+"cons","Nueva Ecija","u18","Pneumonia",0,0,0
+"uncons","Pampanga","all","Pneumonia",0,0,0
+"uncons","Pampanga","u18","Pneumonia",0,0,0
+"cons","Pampanga","all","Pneumonia",0,0,0
+"cons","Pampanga","u18","Pneumonia",0,0,0
+"uncons","Tarlac","all","Pneumonia",569.186732326015,344.158807980408,757.536872522232
+"cons","Tarlac","all","Pneumonia",284.435196460733,183.136710409468,371.32165125637
+"uncons","Tarlac","u18","Pneumonia",10.0380722722432,2.80947704211724,15.1229526137907
+"cons","Tarlac","u18","Pneumonia",6.95762667907427,2.31337200379406,10.2648784379945
+"uncons","Zambales","all","Pneumonia",0,0,0
+"uncons","Zambales","u18","Pneumonia",0,0,0
+"cons","Zambales","all","Pneumonia",0,0,0
+"cons","Zambales","u18","Pneumonia",0,0,0
+"uncons","Batangas","all","Pneumonia",581.469360444963,262.229998433378,857.045590573497
+"cons","Batangas","all","Pneumonia",141.713887904165,66.7499866420945,206.953188202593
+"uncons","Batangas","u18","Pneumonia",7.08230723607322,0.641580803950594,11.9938973648894
+"cons","Batangas","u18","Pneumonia",6.52092629077869,0.577309032773201,11.0280983709851
+"uncons","Cavite","all","Pneumonia",195.754462852124,75.5584367829944,306.727048038656
+"cons","Cavite","all","Pneumonia",56.8576474516133,22.4458707947602,90.9490231504566
+"uncons","Cavite","u18","Pneumonia",0,0,0
+"cons","Cavite","u18","Pneumonia",0,0,0
+"uncons","Laguna","all","Pneumonia",0,0,0
+"uncons","Laguna","u18","Pneumonia",0,0,0
+"cons","Laguna","all","Pneumonia",0,0,0
+"cons","Laguna","u18","Pneumonia",0,0,0
+"uncons","Quezon","all","Pneumonia",537.065501408567,295.777606937144,741.164891150969
+"cons","Quezon","all","Pneumonia",68.4846918377994,15.0931263071718,113.163954155035
+"uncons","Quezon","u18","Pneumonia",12.5569129011867,2.04404651991519,19.8818636294527
+"cons","Quezon","u18","Pneumonia",0,0,0
+"uncons","Rizal","all","Pneumonia",371.030167243952,158.753372581418,560.232949610254
+"cons","Rizal","all","Pneumonia",70.1082058292422,24.4693306308206,112.443850744329
+"uncons","Rizal","u18","Pneumonia",21.1027713437622,6.18664821829816,33.5447382155204
+"cons","Rizal","u18","Pneumonia",0,0,0
+"uncons","Albay","all","Pneumonia",0,0,0
+"uncons","Albay","u18","Pneumonia",0,0,0
+"cons","Albay","all","Pneumonia",0,0,0
+"cons","Albay","u18","Pneumonia",0,0,0
+"uncons","Camarines Norte","all","Pneumonia",0,0,0
+"uncons","Camarines Norte","u18","Pneumonia",0,0,0
+"cons","Camarines Norte","all","Pneumonia",0,0,0
+"cons","Camarines Norte","u18","Pneumonia",0,0,0
+"uncons","Camarines Sur","all","Pneumonia",0,0,0
+"uncons","Camarines Sur","u18","Pneumonia",0,0,0
+"cons","Camarines Sur","all","Pneumonia",0,0,0
+"cons","Camarines Sur","u18","Pneumonia",0,0,0
+"uncons","Catanduanes","all","Pneumonia",0,0,0
+"uncons","Catanduanes","u18","Pneumonia",0,0,0
+"cons","Catanduanes","all","Pneumonia",0,0,0
+"cons","Catanduanes","u18","Pneumonia",0,0,0
+"uncons","Masbate","all","Pneumonia",0,0,0
+"uncons","Masbate","u18","Pneumonia",0,0,0
+"cons","Masbate","all","Pneumonia",0,0,0
+"cons","Masbate","u18","Pneumonia",0,0,0
+"uncons","Sorsogon","all","Pneumonia",0,0,0
+"uncons","Sorsogon","u18","Pneumonia",0,0,0
+"cons","Sorsogon","all","Pneumonia",0,0,0
+"cons","Sorsogon","u18","Pneumonia",0,0,0
+"uncons","Aklan","all","Pneumonia",100.148034779992,30.1993564383694,161.452316284551
+"cons","Aklan","all","Pneumonia",3.46708004181361,1.15981793281913,5.52047915470097
+"uncons","Antique","all","Pneumonia",0,0,0
+"uncons","Antique","u18","Pneumonia",0,0,0
+"cons","Antique","all","Pneumonia",0,0,0
+"cons","Antique","u18","Pneumonia",0,0,0
+"uncons","Capiz","all","Pneumonia",0,0,0
+"uncons","Capiz","u18","Pneumonia",0,0,0
+"cons","Capiz","all","Pneumonia",0,0,0
+"cons","Capiz","u18","Pneumonia",0,0,0
+"uncons","Iloilo","all","Pneumonia",484.990479189829,212.624827652843,725.42810103932
+"cons","Iloilo","all","Pneumonia",50.0690308175959,20.640891465921,75.0819502167045
+"uncons","Iloilo","u18","Pneumonia",0,0,0
+"cons","Iloilo","u18","Pneumonia",0,0,0
+"uncons","Negros Occidental","all","Pneumonia",956.444496551386,563.80724461708,1316.32538787136
+"cons","Negros Occidental","all","Pneumonia",48.9004282855345,28.7741190758003,67.0272754956926
+"uncons","Negros Occidental","u18","Pneumonia",30.8095678089774,14.8426318292534,42.9397765972649
+"cons","Negros Occidental","u18","Pneumonia",0,0,0
+"uncons","Guimaras","all","Pneumonia",0,0,0
+"uncons","Guimaras","u18","Pneumonia",0,0,0
+"cons","Guimaras","all","Pneumonia",0,0,0
+"cons","Guimaras","u18","Pneumonia",0,0,0
+"uncons","Bohol","all","Pneumonia",964.573392306871,594.765627186987,1300.76771089953
+"cons","Bohol","all","Pneumonia",75.9058140157185,42.6913007535769,105.84467440305
+"uncons","Bohol","u18","Pneumonia",35.6915415937741,13.8442012065867,51.6470173211217
+"cons","Bohol","u18","Pneumonia",6.95903787633355,1.692480137651,10.9458983283886
+"uncons","Cebu","all","Pneumonia",133.392538644334,31.874178939382,224.462508519535
+"cons","Cebu","all","Pneumonia",126.943943758336,31.2784881456349,212.586364942168
+"uncons","Cebu","u18","Pneumonia",32.0305388927665,11.0208732199993,48.2722519282829
+"cons","Cebu","u18","Pneumonia",21.4047221160891,7.70907109899813,32.1714219667794
+"uncons","Negros Oriental","all","Pneumonia",153.202812158551,46.5120811163457,248.71512797911
+"cons","Negros Oriental","all","Pneumonia",86.0631173591185,36.6837723573951,130.069656431803
+"uncons","Negros Oriental","u18","Pneumonia",7.36499316452422,1.91033141355261,10.7676445581955
+"cons","Negros Oriental","u18","Pneumonia",0,0,0
+"uncons","Siquijor","all","Pneumonia",0,0,0
+"uncons","Siquijor","u18","Pneumonia",0,0,0
+"cons","Siquijor","all","Pneumonia",0,0,0
+"cons","Siquijor","u18","Pneumonia",0,0,0
+"uncons","Leyte","all","Pneumonia",905.236953642429,539.442346482145,1226.26844665552
+"cons","Leyte","all","Pneumonia",71.8071472671355,33.5837350661903,106.557849917016
+"uncons","Leyte","u18","Pneumonia",0,0,0
+"cons","Leyte","u18","Pneumonia",0,0,0
+"uncons","Northern Samar","all","Pneumonia",0,0,0
+"uncons","Northern Samar","u18","Pneumonia",0,0,0
+"cons","Northern Samar","all","Pneumonia",0,0,0
+"cons","Northern Samar","u18","Pneumonia",0,0,0
+"uncons","Samar","all","Pneumonia",0,0,0
+"uncons","Samar","u18","Pneumonia",0,0,0
+"cons","Samar","all","Pneumonia",0,0,0
+"cons","Samar","u18","Pneumonia",0,0,0
+"uncons","Southern Leyte","all","Pneumonia",52.6250826725644,11.6946134042587,88.0013443099722
+"cons","Southern Leyte","all","Pneumonia",1.04903591964977,0.347903811991087,1.66622944308959
+"uncons","Zamboanga del Norte","all","Pneumonia",104.934902916179,36.3318743869427,159.547313604989
+"cons","Zamboanga del Norte","all","Pneumonia",8.0697215752117,1.75857304859333,13.4690781877825
+"uncons","Zamboanga del Sur","all","Pneumonia",243.278336815182,129.258684095878,335.042855870788
+"cons","Zamboanga del Sur","all","Pneumonia",10.6992814448787,6.41700280092948,14.4584511545768
+"uncons","Zamboanga del Sur","u18","Pneumonia",0,0,0
+"cons","Zamboanga del Sur","u18","Pneumonia",0,0,0
+"uncons","Zamboanga Sibugay","all","Pneumonia",0,0,0
+"uncons","Zamboanga Sibugay","u18","Pneumonia",0,0,0
+"cons","Zamboanga Sibugay","all","Pneumonia",0,0,0
+"cons","Zamboanga Sibugay","u18","Pneumonia",0,0,0
+"uncons","Bukidnon","all","Pneumonia",0,0,0
+"uncons","Bukidnon","u18","Pneumonia",0,0,0
+"cons","Bukidnon","all","Pneumonia",0,0,0
+"cons","Bukidnon","u18","Pneumonia",0,0,0
+"uncons","Lanao del Norte","all","Pneumonia",0,0,0
+"uncons","Lanao del Norte","u18","Pneumonia",0,0,0
+"cons","Lanao del Norte","all","Pneumonia",0,0,0
+"cons","Lanao del Norte","u18","Pneumonia",0,0,0
+"uncons","Misamis Occidental","all","Pneumonia",0,0,0
+"uncons","Misamis Occidental","u18","Pneumonia",0,0,0
+"cons","Misamis Occidental","all","Pneumonia",0,0,0
+"cons","Misamis Occidental","u18","Pneumonia",0,0,0
+"uncons","Misamis Oriental","all","Pneumonia",633.037907977005,330.451491492521,890.36917774182
+"cons","Misamis Oriental","all","Pneumonia",65.6213314908305,42.3768307854665,83.59638163574
+"uncons","Misamis Oriental","u18","Pneumonia",0,0,0
+"cons","Misamis Oriental","u18","Pneumonia",0,0,0
+"uncons","Davao del Norte","all","Pneumonia",806.71160637428,513.440925578412,1040.17603829719
+"cons","Davao del Norte","all","Pneumonia",219.036596790481,124.760500526731,296.071424895989
+"uncons","Davao del Norte","u18","Pneumonia",15.1887184293749,3.70107340694799,22.211296845478
+"cons","Davao del Norte","u18","Pneumonia",6.37450427425836,1.60861354353733,9.08245234218396
+"uncons","Davao del Sur","all","Pneumonia",466.23071288045,209.860589344608,690.581997577715
+"cons","Davao del Sur","all","Pneumonia",43.0817500883038,12.3514846502991,69.7724107259289
+"uncons","Davao del Sur","u18","Pneumonia",11.7547572397294,2.30919003686617,17.7844137249455
+"cons","Davao del Sur","u18","Pneumonia",0,0,0
+"uncons","Davao Oriental","all","Pneumonia",10.4402351901672,0.26993272539638,18.7065467241432
+"cons","Davao Oriental","all","Pneumonia",10.4402351901672,0.26993272539638,18.7065467241432
+"uncons","Compostela Valley","all","Pneumonia",0,0,0
+"uncons","Compostela Valley","u18","Pneumonia",0,0,0
+"cons","Compostela Valley","all","Pneumonia",0,0,0
+"cons","Compostela Valley","u18","Pneumonia",0,0,0
+"uncons","Cotabato","all","Pneumonia",0,0,0
+"uncons","Cotabato","u18","Pneumonia",0,0,0
+"cons","Cotabato","all","Pneumonia",0,0,0
+"cons","Cotabato","u18","Pneumonia",0,0,0
+"uncons","South Cotabato","all","Pneumonia",88.0829474334479,39.2527168417807,130.889047628666
+"cons","South Cotabato","all","Pneumonia",72.6668512900457,37.5854933413048,103.427005870285
+"uncons","South Cotabato","u18","Pneumonia",0,0,0
+"cons","South Cotabato","u18","Pneumonia",0,0,0
+"uncons","Sultan Kudarat","all","Pneumonia",0,0,0
+"uncons","Sultan Kudarat","u18","Pneumonia",0,0,0
+"cons","Sultan Kudarat","all","Pneumonia",0,0,0
+"cons","Sultan Kudarat","u18","Pneumonia",0,0,0
+"uncons","Sarangani","all","Pneumonia",116.609103793504,49.3178427616264,168.956933150806
+"cons","Sarangani","all","Pneumonia",2.06133304884185,0.972479718568442,2.91448515136849
+"uncons","National Capital Region","all","Pneumonia",9142.07464845393,6792.9113304864,11248.4343467433
+"cons","National Capital Region","all","Pneumonia",3322.36091703287,2469.42520578102,4089.21937695283
+"uncons","National Capital Region","u18","Pneumonia",21.612301458751,0.655709996879752,39.5524946999049
+"cons","National Capital Region","u18","Pneumonia",21.612301458751,0.655709996879752,39.5524946999049
+"uncons","Abra","all","Pneumonia",0,0,0
+"uncons","Abra","u18","Pneumonia",0,0,0
+"cons","Abra","all","Pneumonia",0,0,0
+"cons","Abra","u18","Pneumonia",0,0,0
+"uncons","Benguet","all","Pneumonia",0,0,0
+"uncons","Benguet","u18","Pneumonia",0,0,0
+"cons","Benguet","all","Pneumonia",0,0,0
+"cons","Benguet","u18","Pneumonia",0,0,0
+"uncons","Ifugao","all","Pneumonia",0,0,0
+"uncons","Ifugao","u18","Pneumonia",0,0,0
+"cons","Ifugao","all","Pneumonia",0,0,0
+"cons","Ifugao","u18","Pneumonia",0,0,0
+"uncons","Kalinga","all","Pneumonia",0,0,0
+"uncons","Kalinga","u18","Pneumonia",0,0,0
+"cons","Kalinga","all","Pneumonia",0,0,0
+"cons","Kalinga","u18","Pneumonia",0,0,0
+"uncons","Apayao","all","Pneumonia",0,0,0
+"uncons","Apayao","u18","Pneumonia",0,0,0
+"cons","Apayao","all","Pneumonia",0,0,0
+"cons","Apayao","u18","Pneumonia",0,0,0
+"uncons","Agusan del Norte","all","Pneumonia",0,0,0
+"uncons","Agusan del Norte","u18","Pneumonia",0,0,0
+"cons","Agusan del Norte","all","Pneumonia",0,0,0
+"cons","Agusan del Norte","u18","Pneumonia",0,0,0
+"uncons","Agusan del Sur","all","Pneumonia",313.693421205304,190.574362330905,413.231725252368
+"cons","Agusan del Sur","all","Pneumonia",36.1563719795956,20.7291113490172,49.176346006744
+"uncons","Surigao del Norte","all","Pneumonia",0,0,0
+"uncons","Surigao del Norte","u18","Pneumonia",0,0,0
+"cons","Surigao del Norte","all","Pneumonia",0,0,0
+"cons","Surigao del Norte","u18","Pneumonia",0,0,0
+"uncons","Surigao del Sur","all","Pneumonia",95.3758364024822,41.2874375635528,142.562893173215
+"cons","Surigao del Sur","all","Pneumonia",2.27282380341901,1.19355914456777,3.25995377661782
+"uncons","Occidental Mindoro","all","Pneumonia",0,0,0
+"uncons","Occidental Mindoro","u18","Pneumonia",0,0,0
+"cons","Occidental Mindoro","all","Pneumonia",0,0,0
+"cons","Occidental Mindoro","u18","Pneumonia",0,0,0
+"uncons","Oriental Mindoro","all","Pneumonia",0,0,0
+"uncons","Oriental Mindoro","u18","Pneumonia",0,0,0
+"cons","Oriental Mindoro","all","Pneumonia",0,0,0
+"cons","Oriental Mindoro","u18","Pneumonia",0,0,0
+"uncons","Palawan","all","Pneumonia",0,0,0
+"uncons","Palawan","u18","Pneumonia",0,0,0
+"cons","Palawan","all","Pneumonia",0,0,0
+"cons","Palawan","u18","Pneumonia",0,0,0
+"uncons","Ilocos Norte","all","Sepsis",0,0,0
+"uncons","Ilocos Norte","u18","Sepsis",0,0,0
+"cons","Ilocos Norte","all","Sepsis",0,0,0
+"cons","Ilocos Norte","u18","Sepsis",0,0,0
+"uncons","Ilocos Sur","all","Sepsis",0,0,0
+"uncons","Ilocos Sur","u18","Sepsis",0,0,0
+"cons","Ilocos Sur","all","Sepsis",0,0,0
+"cons","Ilocos Sur","u18","Sepsis",0,0,0
+"uncons","La Union","all","Sepsis",0,0,0
+"uncons","La Union","u18","Sepsis",0,0,0
+"cons","La Union","all","Sepsis",0,0,0
+"cons","La Union","u18","Sepsis",0,0,0
+"uncons","Pangasinan","all","Sepsis",0,0,0
+"uncons","Pangasinan","u18","Sepsis",0,0,0
+"cons","Pangasinan","all","Sepsis",0,0,0
+"cons","Pangasinan","u18","Sepsis",0,0,0
+"uncons","Cagayan","all","Sepsis",0,0,0
+"uncons","Cagayan","u18","Sepsis",0,0,0
+"cons","Cagayan","all","Sepsis",0,0,0
+"cons","Cagayan","u18","Sepsis",0,0,0
+"uncons","Isabela","all","Sepsis",0,0,0
+"uncons","Isabela","u18","Sepsis",0,0,0
+"cons","Isabela","all","Sepsis",0,0,0
+"cons","Isabela","u18","Sepsis",0,0,0
+"uncons","Bataan","all","Sepsis",0,0,0
+"uncons","Bataan","u18","Sepsis",0,0,0
+"cons","Bataan","all","Sepsis",0,0,0
+"cons","Bataan","u18","Sepsis",0,0,0
+"uncons","Bulacan","all","Sepsis",0,0,0
+"uncons","Bulacan","u18","Sepsis",0,0,0
+"cons","Bulacan","all","Sepsis",0,0,0
+"cons","Bulacan","u18","Sepsis",0,0,0
+"uncons","Nueva Ecija","all","Sepsis",55.4669082778707,25.5377421874044,78.259205847221
+"cons","Nueva Ecija","all","Sepsis",21.7035180957489,6.74860728831868,32.8438548145455
+"uncons","Nueva Ecija","u18","Sepsis",11.3039572109073,3.68417011738748,16.6995413583826
+"cons","Nueva Ecija","u18","Sepsis",0.944510689755681,0.348922768527859,1.36025914441005
+"uncons","Pampanga","all","Sepsis",71.1729998133594,23.2966912770676,107.05243346801
+"cons","Pampanga","all","Sepsis",39.6199669767709,13.9493496706316,59.072832613524
+"uncons","Tarlac","all","Sepsis",0,0,0
+"uncons","Tarlac","u18","Sepsis",0,0,0
+"cons","Tarlac","all","Sepsis",0,0,0
+"cons","Tarlac","u18","Sepsis",0,0,0
+"uncons","Zambales","all","Sepsis",0,0,0
+"uncons","Zambales","u18","Sepsis",0,0,0
+"cons","Zambales","all","Sepsis",0,0,0
+"cons","Zambales","u18","Sepsis",0,0,0
+"uncons","Batangas","all","Sepsis",0,0,0
+"uncons","Batangas","u18","Sepsis",0,0,0
+"cons","Batangas","all","Sepsis",0,0,0
+"cons","Batangas","u18","Sepsis",0,0,0
+"uncons","Cavite","all","Sepsis",0,0,0
+"uncons","Cavite","u18","Sepsis",0,0,0
+"cons","Cavite","all","Sepsis",0,0,0
+"cons","Cavite","u18","Sepsis",0,0,0
+"uncons","Laguna","all","Sepsis",221.067859778869,142.594812978708,285.527964341345
+"cons","Laguna","all","Sepsis",43.2556155396646,28.9849344941233,56.2714871368782
+"uncons","Laguna","u18","Sepsis",0,0,0
+"cons","Laguna","u18","Sepsis",0,0,0
+"uncons","Quezon","all","Sepsis",0,0,0
+"uncons","Quezon","u18","Sepsis",0,0,0
+"cons","Quezon","all","Sepsis",0,0,0
+"cons","Quezon","u18","Sepsis",0,0,0
+"uncons","Rizal","all","Sepsis",80.7496635517448,49.523664513795,105.402970024328
+"cons","Rizal","all","Sepsis",80.7496635517448,49.523664513795,105.402970024328
+"uncons","Rizal","u18","Sepsis",22.8157355246254,16.632153952774,27.1498750882934
+"cons","Rizal","u18","Sepsis",22.8157355246254,16.632153952774,27.1498750882934
+"uncons","Albay","all","Sepsis",0,0,0
+"uncons","Albay","u18","Sepsis",0,0,0
+"cons","Albay","all","Sepsis",0,0,0
+"cons","Albay","u18","Sepsis",0,0,0
+"uncons","Camarines Sur","all","Sepsis",0,0,0
+"uncons","Camarines Sur","u18","Sepsis",0,0,0
+"cons","Camarines Sur","all","Sepsis",0,0,0
+"cons","Camarines Sur","u18","Sepsis",0,0,0
+"uncons","Masbate","all","Sepsis",0,0,0
+"uncons","Masbate","u18","Sepsis",0,0,0
+"cons","Masbate","all","Sepsis",0,0,0
+"cons","Masbate","u18","Sepsis",0,0,0
+"uncons","Sorsogon","all","Sepsis",0,0,0
+"uncons","Sorsogon","u18","Sepsis",0,0,0
+"cons","Sorsogon","all","Sepsis",0,0,0
+"cons","Sorsogon","u18","Sepsis",0,0,0
+"uncons","Aklan","all","Sepsis",0,0,0
+"uncons","Aklan","u18","Sepsis",0,0,0
+"cons","Aklan","all","Sepsis",0,0,0
+"cons","Aklan","u18","Sepsis",0,0,0
+"uncons","Antique","all","Sepsis",0,0,0
+"uncons","Antique","u18","Sepsis",0,0,0
+"cons","Antique","all","Sepsis",0,0,0
+"cons","Antique","u18","Sepsis",0,0,0
+"uncons","Capiz","all","Sepsis",0,0,0
+"uncons","Capiz","u18","Sepsis",0,0,0
+"cons","Capiz","all","Sepsis",0,0,0
+"cons","Capiz","u18","Sepsis",0,0,0
+"uncons","Iloilo","all","Sepsis",0,0,0
+"uncons","Iloilo","u18","Sepsis",0,0,0
+"cons","Iloilo","all","Sepsis",0,0,0
+"cons","Iloilo","u18","Sepsis",0,0,0
+"uncons","Negros Occidental","all","Sepsis",0,0,0
+"uncons","Negros Occidental","u18","Sepsis",0,0,0
+"cons","Negros Occidental","all","Sepsis",0,0,0
+"cons","Negros Occidental","u18","Sepsis",0,0,0
+"uncons","Bohol","all","Sepsis",0,0,0
+"uncons","Bohol","u18","Sepsis",0,0,0
+"cons","Bohol","all","Sepsis",0,0,0
+"cons","Bohol","u18","Sepsis",0,0,0
+"uncons","Cebu","all","Sepsis",0,0,0
+"uncons","Cebu","u18","Sepsis",0,0,0
+"cons","Cebu","all","Sepsis",0,0,0
+"cons","Cebu","u18","Sepsis",0,0,0
+"uncons","Negros Oriental","all","Sepsis",0,0,0
+"uncons","Negros Oriental","u18","Sepsis",0,0,0
+"cons","Negros Oriental","all","Sepsis",0,0,0
+"cons","Negros Oriental","u18","Sepsis",0,0,0
+"uncons","Leyte","all","Sepsis",78.5972505222993,38.4940869367842,107.582695238639
+"cons","Leyte","all","Sepsis",50.4954757225513,30.1792373565072,64.873005559971
+"uncons","Northern Samar","all","Sepsis",0,0,0
+"uncons","Northern Samar","u18","Sepsis",0,0,0
+"cons","Northern Samar","all","Sepsis",0,0,0
+"cons","Northern Samar","u18","Sepsis",0,0,0
+"uncons","Samar","all","Sepsis",0,0,0
+"uncons","Samar","u18","Sepsis",0,0,0
+"cons","Samar","all","Sepsis",0,0,0
+"cons","Samar","u18","Sepsis",0,0,0
+"uncons","Southern Leyte","all","Sepsis",0,0,0
+"uncons","Southern Leyte","u18","Sepsis",0,0,0
+"cons","Southern Leyte","all","Sepsis",0,0,0
+"cons","Southern Leyte","u18","Sepsis",0,0,0
+"uncons","Zamboanga del Norte","all","Sepsis",0,0,0
+"uncons","Zamboanga del Norte","u18","Sepsis",0,0,0
+"cons","Zamboanga del Norte","all","Sepsis",0,0,0
+"cons","Zamboanga del Norte","u18","Sepsis",0,0,0
+"uncons","Zamboanga del Sur","all","Sepsis",0,0,0
+"uncons","Zamboanga del Sur","u18","Sepsis",0,0,0
+"cons","Zamboanga del Sur","all","Sepsis",0,0,0
+"cons","Zamboanga del Sur","u18","Sepsis",0,0,0
+"uncons","Zamboanga Sibugay","all","Sepsis",0,0,0
+"uncons","Zamboanga Sibugay","u18","Sepsis",0,0,0
+"cons","Zamboanga Sibugay","all","Sepsis",0,0,0
+"cons","Zamboanga Sibugay","u18","Sepsis",0,0,0
+"uncons","Bukidnon","all","Sepsis",0,0,0
+"uncons","Bukidnon","u18","Sepsis",0,0,0
+"cons","Bukidnon","all","Sepsis",0,0,0
+"cons","Bukidnon","u18","Sepsis",0,0,0
+"uncons","Lanao del Norte","all","Sepsis",0,0,0
+"uncons","Lanao del Norte","u18","Sepsis",0,0,0
+"cons","Lanao del Norte","all","Sepsis",0,0,0
+"cons","Lanao del Norte","u18","Sepsis",0,0,0
+"uncons","Misamis Occidental","all","Sepsis",47.5978443638193,16.4716912822769,69.3312172184951
+"cons","Misamis Occidental","all","Sepsis",0.630086474959263,0.0152760593789254,1.09085843135967
+"uncons","Misamis Oriental","all","Sepsis",0,0,0
+"uncons","Misamis Oriental","u18","Sepsis",0,0,0
+"cons","Misamis Oriental","all","Sepsis",0,0,0
+"cons","Misamis Oriental","u18","Sepsis",0,0,0
+"uncons","Davao del Norte","all","Sepsis",5.36732742006535,0.415071946670408,9.01546449575132
+"cons","Davao del Norte","all","Sepsis",5.36732742006535,0.415071946670408,9.01546449575132
+"uncons","Davao del Norte","u18","Sepsis",9.79858263627869,2.84199781854097,14.3445699883182
+"cons","Davao del Norte","u18","Sepsis",2.29272339440299,0.748119521555919,3.27987245374785
+"uncons","Davao del Sur","all","Sepsis",0,0,0
+"uncons","Davao del Sur","u18","Sepsis",0,0,0
+"cons","Davao del Sur","all","Sepsis",0,0,0
+"cons","Davao del Sur","u18","Sepsis",0,0,0
+"uncons","Davao Oriental","all","Sepsis",0.966126294512263,0.0951618313942655,1.55421687207644
+"cons","Davao Oriental","all","Sepsis",0.966126294512263,0.0951618313942655,1.55421687207644
+"uncons","Cotabato","all","Sepsis",0,0,0
+"uncons","Cotabato","u18","Sepsis",0,0,0
+"cons","Cotabato","all","Sepsis",0,0,0
+"cons","Cotabato","u18","Sepsis",0,0,0
+"uncons","South Cotabato","all","Sepsis",60.4149322350692,15.8623132191982,92.8850641795377
+"cons","South Cotabato","all","Sepsis",25.3549262975364,8.32685750537684,37.7005709268113
+"uncons","South Cotabato","u18","Sepsis",56.2800196939706,23.4918297152359,77.1934966543681
+"cons","South Cotabato","u18","Sepsis",11.9088139909172,6.91431098847594,15.1377678816935
+"uncons","Sultan Kudarat","all","Sepsis",0,0,0
+"uncons","Sultan Kudarat","u18","Sepsis",0,0,0
+"cons","Sultan Kudarat","all","Sepsis",0,0,0
+"cons","Sultan Kudarat","u18","Sepsis",0,0,0
+"uncons","National Capital Region","all","Sepsis",0,0,0
+"uncons","National Capital Region","u18","Sepsis",0,0,0
+"cons","National Capital Region","all","Sepsis",0,0,0
+"cons","National Capital Region","u18","Sepsis",0,0,0
+"uncons","Agusan del Norte","all","Sepsis",81.3253602376927,35.8341222954094,112.542011360189
+"cons","Agusan del Norte","all","Sepsis",11.7722467356496,3.75321745793513,17.3198509763352
+"uncons","Agusan del Sur","all","Sepsis",0,0,0
+"uncons","Agusan del Sur","u18","Sepsis",0,0,0
+"cons","Agusan del Sur","all","Sepsis",0,0,0
+"cons","Agusan del Sur","u18","Sepsis",0,0,0
+"uncons","Surigao del Norte","all","Sepsis",0,0,0
+"uncons","Surigao del Norte","u18","Sepsis",0,0,0
+"cons","Surigao del Norte","all","Sepsis",0,0,0
+"cons","Surigao del Norte","u18","Sepsis",0,0,0
+"uncons","Surigao del Sur","all","Sepsis",0,0,0
+"uncons","Surigao del Sur","u18","Sepsis",0,0,0
+"cons","Surigao del Sur","all","Sepsis",0,0,0
+"cons","Surigao del Sur","u18","Sepsis",0,0,0
+"uncons","Oriental Mindoro","all","Sepsis",0,0,0
+"uncons","Oriental Mindoro","u18","Sepsis",0,0,0
+"cons","Oriental Mindoro","all","Sepsis",0,0,0
+"cons","Oriental Mindoro","u18","Sepsis",0,0,0
+"uncons","Palawan","all","Sepsis",0,0,0
+"uncons","Palawan","u18","Sepsis",0,0,0
+"cons","Palawan","all","Sepsis",0,0,0
+"cons","Palawan","u18","Sepsis",0,0,0
+"uncons","Ilocos Norte","all","Other Infectious",0,0,0
+"uncons","Ilocos Norte","u18","Other Infectious",0,0,0
+"cons","Ilocos Norte","all","Other Infectious",0,0,0
+"cons","Ilocos Norte","u18","Other Infectious",0,0,0
+"uncons","Ilocos Sur","all","Other Infectious",6.43406224123675,0.288312975705633,11.1603312031631
+"cons","Ilocos Sur","all","Other Infectious",6.43406224123675,0.288312975705633,11.1603312031631
+"uncons","La Union","all","Other Infectious",0,0,0
+"uncons","La Union","u18","Other Infectious",0,0,0
+"cons","La Union","all","Other Infectious",0,0,0
+"cons","La Union","u18","Other Infectious",0,0,0
+"uncons","Pangasinan","all","Other Infectious",104.199754856966,24.5030270465041,170.41378398481
+"cons","Pangasinan","all","Other Infectious",65.3976935922025,18.553581541734,102.987912484541
+"uncons","Pangasinan","u18","Other Infectious",58.0982989528561,25.9067180526048,82.839707582829
+"cons","Pangasinan","u18","Other Infectious",0,0,0
+"uncons","Cagayan","all","Other Infectious",174.034265369081,84.1228090680781,250.17974677463
+"cons","Cagayan","all","Other Infectious",10.8378613841432,4.48596554970567,16.6333786390217
+"uncons","Cagayan","u18","Other Infectious",82.1197115005342,52.0325700555836,100.877229229251
+"cons","Cagayan","u18","Other Infectious",0.871940504432485,0.291866852661718,1.25507115882503
+"uncons","Isabela","all","Other Infectious",0,0,0
+"uncons","Isabela","u18","Other Infectious",0,0,0
+"cons","Isabela","all","Other Infectious",0,0,0
+"cons","Isabela","u18","Other Infectious",0,0,0
+"uncons","Nueva Vizcaya","all","Other Infectious",0,0,0
+"uncons","Nueva Vizcaya","u18","Other Infectious",0,0,0
+"cons","Nueva Vizcaya","all","Other Infectious",0,0,0
+"cons","Nueva Vizcaya","u18","Other Infectious",0,0,0
+"uncons","Quirino","all","Other Infectious",0,0,0
+"uncons","Quirino","u18","Other Infectious",0,0,0
+"cons","Quirino","all","Other Infectious",0,0,0
+"cons","Quirino","u18","Other Infectious",0,0,0
+"uncons","Bataan","all","Other Infectious",16.5789784648774,1.32169378127913,30.1580171734524
+"cons","Bataan","all","Other Infectious",9.11900733859128,0.939405317368706,16.5261130808051
+"uncons","Bataan","u18","Other Infectious",1.13491765391235,0.106911600410496,1.82297635008253
+"cons","Bataan","u18","Other Infectious",0,0,0
+"uncons","Bulacan","all","Other Infectious",0,0,0
+"uncons","Bulacan","u18","Other Infectious",0,0,0
+"cons","Bulacan","all","Other Infectious",0,0,0
+"cons","Bulacan","u18","Other Infectious",0,0,0
+"uncons","Nueva Ecija","all","Other Infectious",26.477191207495,5.58433386197196,45.1858188558391
+"cons","Nueva Ecija","all","Other Infectious",26.477191207495,5.58433386197196,45.1858188558391
+"uncons","Nueva Ecija","u18","Other Infectious",4.69077118774422,0.724644215371618,7.80097534922705
+"cons","Nueva Ecija","u18","Other Infectious",0,0,0
+"uncons","Pampanga","all","Other Infectious",30.5236942748691,3.61691353540577,54.1145412744994
+"cons","Pampanga","all","Other Infectious",17.2738596039835,1.99853196812407,30.4468322537259
+"uncons","Pampanga","u18","Other Infectious",78.9105019728531,31.4319468752843,113.645613701555
+"cons","Pampanga","u18","Other Infectious",6.25184684149838,3.11287407905444,8.53992655578988
+"uncons","Tarlac","all","Other Infectious",10.4474672265326,0.778023423941739,18.5775506427591
+"cons","Tarlac","all","Other Infectious",5.49158586272953,-0.00179335166333124,9.85341209285281
+"uncons","Tarlac","u18","Other Infectious",23.5163321807093,7.94296203896947,35.0745662648387
+"cons","Tarlac","u18","Other Infectious",0,0,0
+"uncons","Zambales","all","Other Infectious",0,0,0
+"uncons","Zambales","u18","Other Infectious",0,0,0
+"cons","Zambales","all","Other Infectious",0,0,0
+"cons","Zambales","u18","Other Infectious",0,0,0
+"uncons","Batangas","all","Other Infectious",0,0,0
+"uncons","Batangas","u18","Other Infectious",0,0,0
+"cons","Batangas","all","Other Infectious",0,0,0
+"cons","Batangas","u18","Other Infectious",0,0,0
+"uncons","Cavite","all","Other Infectious",0,0,0
+"uncons","Cavite","u18","Other Infectious",0,0,0
+"cons","Cavite","all","Other Infectious",0,0,0
+"cons","Cavite","u18","Other Infectious",0,0,0
+"uncons","Laguna","all","Other Infectious",0,0,0
+"uncons","Laguna","u18","Other Infectious",0,0,0
+"cons","Laguna","all","Other Infectious",0,0,0
+"cons","Laguna","u18","Other Infectious",0,0,0
+"uncons","Quezon","all","Other Infectious",0,0,0
+"uncons","Quezon","u18","Other Infectious",0,0,0
+"cons","Quezon","all","Other Infectious",0,0,0
+"cons","Quezon","u18","Other Infectious",0,0,0
+"uncons","Rizal","all","Other Infectious",0,0,0
+"uncons","Rizal","u18","Other Infectious",0,0,0
+"cons","Rizal","all","Other Infectious",0,0,0
+"cons","Rizal","u18","Other Infectious",0,0,0
+"uncons","Albay","all","Other Infectious",25.9350539172957,3.80218937326792,45.6443179250191
+"cons","Albay","all","Other Infectious",20.9424988519945,3.45997625534378,36.5445626611238
+"uncons","Albay","u18","Other Infectious",28.9857719184026,10.4831834423618,41.9706252727297
+"cons","Albay","u18","Other Infectious",1.29180657272003,-0.0117930416390614,2.1287248809339
+"uncons","Camarines Norte","all","Other Infectious",0,0,0
+"uncons","Camarines Norte","u18","Other Infectious",0,0,0
+"cons","Camarines Norte","all","Other Infectious",0,0,0
+"cons","Camarines Norte","u18","Other Infectious",0,0,0
+"uncons","Camarines Sur","all","Other Infectious",0,0,0
+"uncons","Camarines Sur","u18","Other Infectious",0,0,0
+"cons","Camarines Sur","all","Other Infectious",0,0,0
+"cons","Camarines Sur","u18","Other Infectious",0,0,0
+"uncons","Catanduanes","all","Other Infectious",0,0,0
+"uncons","Catanduanes","u18","Other Infectious",0,0,0
+"cons","Catanduanes","all","Other Infectious",0,0,0
+"cons","Catanduanes","u18","Other Infectious",0,0,0
+"uncons","Masbate","all","Other Infectious",70.468155886021,32.1110436031872,102.889908078657
+"cons","Masbate","all","Other Infectious",10.6729246299462,0.963367407317136,18.9573747814176
+"uncons","Masbate","u18","Other Infectious",23.0814867345846,6.2019911052222,33.5601826794478
+"cons","Masbate","u18","Other Infectious",6.85372320058491,1.05037970830111,10.3034197976132
+"uncons","Sorsogon","all","Other Infectious",0,0,0
+"uncons","Sorsogon","u18","Other Infectious",0,0,0
+"cons","Sorsogon","all","Other Infectious",0,0,0
+"cons","Sorsogon","u18","Other Infectious",0,0,0
+"uncons","Aklan","all","Other Infectious",0,0,0
+"uncons","Aklan","u18","Other Infectious",0,0,0
+"cons","Aklan","all","Other Infectious",0,0,0
+"cons","Aklan","u18","Other Infectious",0,0,0
+"uncons","Antique","all","Other Infectious",0,0,0
+"uncons","Antique","u18","Other Infectious",0,0,0
+"cons","Antique","all","Other Infectious",0,0,0
+"cons","Antique","u18","Other Infectious",0,0,0
+"uncons","Capiz","all","Other Infectious",0,0,0
+"uncons","Capiz","u18","Other Infectious",0,0,0
+"cons","Capiz","all","Other Infectious",0,0,0
+"cons","Capiz","u18","Other Infectious",0,0,0
+"uncons","Iloilo","all","Other Infectious",0,0,0
+"uncons","Iloilo","u18","Other Infectious",0,0,0
+"cons","Iloilo","all","Other Infectious",0,0,0
+"cons","Iloilo","u18","Other Infectious",0,0,0
+"uncons","Negros Occidental","all","Other Infectious",103.29086106589,39.5030766990324,169.370128923563
+"cons","Negros Occidental","all","Other Infectious",16.3705012608049,7.31807351445792,25.9820371727493
+"uncons","Negros Occidental","u18","Other Infectious",55.3840114918865,37.514959492511,70.4695729949351
+"cons","Negros Occidental","u18","Other Infectious",6.95926358653398,5.03772682667405,8.64921396099776
+"uncons","Guimaras","all","Other Infectious",0,0,0
+"uncons","Guimaras","u18","Other Infectious",0,0,0
+"cons","Guimaras","all","Other Infectious",0,0,0
+"cons","Guimaras","u18","Other Infectious",0,0,0
+"uncons","Bohol","all","Other Infectious",0,0,0
+"uncons","Bohol","u18","Other Infectious",0,0,0
+"cons","Bohol","all","Other Infectious",0,0,0
+"cons","Bohol","u18","Other Infectious",0,0,0
+"uncons","Cebu","all","Other Infectious",360.576514720475,228.971583357224,484.749213185599
+"cons","Cebu","all","Other Infectious",205.935375682614,135.936820742116,272.106693588327
+"uncons","Cebu","u18","Other Infectious",218.586863025069,166.083830342401,263.047318381187
+"cons","Cebu","u18","Other Infectious",140.697910717629,106.022240304996,169.768160590021
+"uncons","Negros Oriental","all","Other Infectious",46.6042163104255,15.673692792837,73.9906717890361
+"cons","Negros Oriental","all","Other Infectious",6.49621286995279,2.53087675379604,10.2740337590613
+"uncons","Negros Oriental","u18","Other Infectious",36.6697709560317,22.1369131530884,46.7837763029658
+"cons","Negros Oriental","u18","Other Infectious",4.64702232922182,2.66594894221567,6.02835826053054
+"uncons","Siquijor","all","Other Infectious",0,0,0
+"uncons","Siquijor","u18","Other Infectious",0,0,0
+"cons","Siquijor","all","Other Infectious",0,0,0
+"cons","Siquijor","u18","Other Infectious",0,0,0
+"uncons","Leyte","all","Other Infectious",0,0,0
+"uncons","Leyte","u18","Other Infectious",0,0,0
+"cons","Leyte","all","Other Infectious",0,0,0
+"cons","Leyte","u18","Other Infectious",0,0,0
+"uncons","Northern Samar","all","Other Infectious",0,0,0
+"uncons","Northern Samar","u18","Other Infectious",0,0,0
+"cons","Northern Samar","all","Other Infectious",0,0,0
+"cons","Northern Samar","u18","Other Infectious",0,0,0
+"uncons","Samar","all","Other Infectious",0,0,0
+"uncons","Samar","u18","Other Infectious",0,0,0
+"cons","Samar","all","Other Infectious",0,0,0
+"cons","Samar","u18","Other Infectious",0,0,0
+"uncons","Southern Leyte","all","Other Infectious",0,0,0
+"uncons","Southern Leyte","u18","Other Infectious",0,0,0
+"cons","Southern Leyte","all","Other Infectious",0,0,0
+"cons","Southern Leyte","u18","Other Infectious",0,0,0
+"uncons","Zamboanga del Norte","all","Other Infectious",32.9314605545375,11.0894911437065,52.083190767562
+"cons","Zamboanga del Norte","all","Other Infectious",32.9314605545375,11.0894911437065,52.083190767562
+"uncons","Zamboanga del Norte","u18","Other Infectious",21.0304866820813,8.29934604865262,28.8885429638865
+"cons","Zamboanga del Norte","u18","Other Infectious",0,0,0
+"uncons","Zamboanga del Sur","all","Other Infectious",0,0,0
+"uncons","Zamboanga del Sur","u18","Other Infectious",0,0,0
+"cons","Zamboanga del Sur","all","Other Infectious",0,0,0
+"cons","Zamboanga del Sur","u18","Other Infectious",0,0,0
+"uncons","Zamboanga Sibugay","all","Other Infectious",0,0,0
+"uncons","Zamboanga Sibugay","u18","Other Infectious",0,0,0
+"cons","Zamboanga Sibugay","all","Other Infectious",0,0,0
+"cons","Zamboanga Sibugay","u18","Other Infectious",0,0,0
+"uncons","Bukidnon","all","Other Infectious",0,0,0
+"uncons","Bukidnon","u18","Other Infectious",0,0,0
+"cons","Bukidnon","all","Other Infectious",0,0,0
+"cons","Bukidnon","u18","Other Infectious",0,0,0
+"uncons","Lanao del Norte","all","Other Infectious",26.4015529316134,4.17945054458902,44.5837091456872
+"cons","Lanao del Norte","all","Other Infectious",25.6440777640673,4.1762136576609,43.2131051798507
+"uncons","Lanao del Norte","u18","Other Infectious",27.7672769334018,9.55564058555743,40.1974941600973
+"cons","Lanao del Norte","u18","Other Infectious",1.42306750698532,0.183151490266913,2.2627810073702
+"uncons","Misamis Occidental","all","Other Infectious",116.069542587613,46.1918550619384,178.394579722855
+"cons","Misamis Occidental","all","Other Infectious",38.2059689503241,20.2834231055781,55.4007738611246
+"uncons","Misamis Occidental","u18","Other Infectious",61.212560961295,32.691366991495,78.0959683472358
+"cons","Misamis Occidental","u18","Other Infectious",8.28012324103409,2.88235235528251,10.880066537034
+"uncons","Misamis Oriental","all","Other Infectious",49.6444641155967,8.12165352827422,87.9071212645974
+"cons","Misamis Oriental","all","Other Infectious",7.5594104308082,1.1851773117702,13.8578370774547
+"uncons","Misamis Oriental","u18","Other Infectious",59.8573688017235,29.6789360057149,81.5117278691447
+"cons","Misamis Oriental","u18","Other Infectious",0,0,0
+"uncons","Davao del Norte","all","Other Infectious",81.635802406064,27.8715210723772,125.719120328394
+"cons","Davao del Norte","all","Other Infectious",60.3101708239534,26.3411173630297,87.1751032541579
+"uncons","Davao del Norte","u18","Other Infectious",66.8270575828872,32.7629780977244,91.1962648878995
+"cons","Davao del Norte","u18","Other Infectious",25.41474612591,12.1060036163378,34.9395143954807
+"uncons","Davao del Sur","all","Other Infectious",323.461035936656,159.464183295072,473.463196358448
+"cons","Davao del Sur","all","Other Infectious",47.4725163608541,27.2917515188114,66.4161467142647
+"uncons","Davao del Sur","u18","Other Infectious",58.2160924517642,18.0675988219247,91.1455671159373
+"cons","Davao del Sur","u18","Other Infectious",15.4011657884235,3.30953824668813,25.7965716080879
+"uncons","Davao Oriental","all","Other Infectious",0,0,0
+"uncons","Davao Oriental","u18","Other Infectious",0,0,0
+"cons","Davao Oriental","all","Other Infectious",0,0,0
+"cons","Davao Oriental","u18","Other Infectious",0,0,0
+"uncons","Compostela Valley","all","Other Infectious",0.824955309383753,-0.010023553943296,1.46957810486834
+"cons","Compostela Valley","all","Other Infectious",0.824955309383753,-0.010023553943296,1.46957810486834
+"uncons","Cotabato","all","Other Infectious",7.82866785122858,0.973438347688028,13.7877426439514
+"cons","Cotabato","all","Other Infectious",7.82866785122858,0.973438347688028,13.7877426439514
+"uncons","South Cotabato","all","Other Infectious",53.9927862706001,12.2864849930511,95.095858190485
+"cons","South Cotabato","all","Other Infectious",51.066071478493,11.9881869722912,89.6629754065445
+"uncons","South Cotabato","u18","Other Infectious",39.4989535162137,22.1123631028935,52.8168883983105
+"cons","South Cotabato","u18","Other Infectious",17.054346113842,9.2217870383545,23.2693661356632
+"uncons","Sultan Kudarat","all","Other Infectious",56.5111761568508,19.3581280305726,88.817933659346
+"cons","Sultan Kudarat","all","Other Infectious",42.1306548088233,13.7773998844806,66.4601136727892
+"uncons","Sarangani","all","Other Infectious",0,0,0
+"uncons","Sarangani","u18","Other Infectious",0,0,0
+"cons","Sarangani","all","Other Infectious",0,0,0
+"cons","Sarangani","u18","Other Infectious",0,0,0
+"uncons","National Capital Region","all","Other Infectious",441.116092958189,171.298772406496,692.057574894857
+"cons","National Capital Region","all","Other Infectious",85.6468741859328,19.7099034264582,145.798717310877
+"uncons","National Capital Region","u18","Other Infectious",268.277865911739,186.896092181525,334.165378317266
+"cons","National Capital Region","u18","Other Infectious",0,0,0
+"uncons","Abra","all","Other Infectious",0,0,0
+"uncons","Abra","u18","Other Infectious",0,0,0
+"cons","Abra","all","Other Infectious",0,0,0
+"cons","Abra","u18","Other Infectious",0,0,0
+"uncons","Benguet","all","Other Infectious",101.228952212318,47.0459232992046,145.034566737147
+"cons","Benguet","all","Other Infectious",6.81914810049866,2.3458854451484,10.4281079834582
+"uncons","Kalinga","all","Other Infectious",0,0,0
+"uncons","Kalinga","u18","Other Infectious",0,0,0
+"cons","Kalinga","all","Other Infectious",0,0,0
+"cons","Kalinga","u18","Other Infectious",0,0,0
+"uncons","Agusan del Norte","all","Other Infectious",21.2088237640415,3.35673428255705,35.1329016128446
+"cons","Agusan del Norte","all","Other Infectious",12.2479183031396,2.79482561641154,19.9069829714228
+"uncons","Agusan del Norte","u18","Other Infectious",0,0,0
+"cons","Agusan del Norte","u18","Other Infectious",0,0,0
+"uncons","Agusan del Sur","all","Other Infectious",132.321647163503,55.8598432089899,191.998050094493
+"cons","Agusan del Sur","all","Other Infectious",37.0466450340323,20.9629409204152,50.2415310011044
+"uncons","Surigao del Norte","all","Other Infectious",0,0,0
+"uncons","Surigao del Norte","u18","Other Infectious",0,0,0
+"cons","Surigao del Norte","all","Other Infectious",0,0,0
+"cons","Surigao del Norte","u18","Other Infectious",0,0,0
+"uncons","Surigao del Sur","all","Other Infectious",78.2289679164925,23.5881701188383,121.603414597165
+"cons","Surigao del Sur","all","Other Infectious",1.96959810699709,0.188389924843601,3.32451980747774
+"uncons","Occidental Mindoro","all","Other Infectious",0,0,0
+"uncons","Occidental Mindoro","u18","Other Infectious",0,0,0
+"cons","Occidental Mindoro","all","Other Infectious",0,0,0
+"cons","Occidental Mindoro","u18","Other Infectious",0,0,0
+"uncons","Oriental Mindoro","all","Other Infectious",64.2134229099709,18.2266555074125,101.773287533205
+"cons","Oriental Mindoro","all","Other Infectious",14.2749283392759,3.94014169195919,22.4753865525736
+"uncons","Oriental Mindoro","u18","Other Infectious",15.3624639214374,4.87691474401285,21.6174234582405
+"cons","Oriental Mindoro","u18","Other Infectious",0.438348389419272,0.0538245702422506,0.684585359468881
+"uncons","Palawan","all","Other Infectious",0,0,0
+"uncons","Palawan","u18","Other Infectious",0,0,0
+"cons","Palawan","all","Other Infectious",0,0,0
+"cons","Palawan","u18","Other Infectious",0,0,0
+"uncons","Ilocos Norte","all","Hypertension",0,0,0
+"uncons","Ilocos Norte","u18","Hypertension",0,0,0
+"cons","Ilocos Norte","all","Hypertension",0,0,0
+"cons","Ilocos Norte","u18","Hypertension",0,0,0
+"uncons","Ilocos Sur","all","Hypertension",27.7633707970401,12.9147037623266,38.8553503905491
+"cons","Ilocos Sur","all","Hypertension",27.7633707970401,12.9147037623266,38.8553503905491
+"uncons","La Union","all","Hypertension",13.0595421561326,2.98419013519864,21.168235920636
+"cons","La Union","all","Hypertension",13.0595421561326,2.98419013519864,21.168235920636
+"uncons","Pangasinan","all","Hypertension",485.019422527561,238.422228753591,688.681151976686
+"cons","Pangasinan","all","Hypertension",131.306765031901,75.2090105587329,177.942260347479
+"uncons","Cagayan","all","Hypertension",0,0,0
+"uncons","Cagayan","u18","Hypertension",0,0,0
+"cons","Cagayan","all","Hypertension",0,0,0
+"cons","Cagayan","u18","Hypertension",0,0,0
+"uncons","Isabela","all","Hypertension",0,0,0
+"uncons","Isabela","u18","Hypertension",0,0,0
+"cons","Isabela","all","Hypertension",0,0,0
+"cons","Isabela","u18","Hypertension",0,0,0
+"uncons","Nueva Vizcaya","all","Hypertension",0,0,0
+"uncons","Nueva Vizcaya","u18","Hypertension",0,0,0
+"cons","Nueva Vizcaya","all","Hypertension",0,0,0
+"cons","Nueva Vizcaya","u18","Hypertension",0,0,0
+"uncons","Quirino","all","Hypertension",0,0,0
+"uncons","Quirino","u18","Hypertension",0,0,0
+"cons","Quirino","all","Hypertension",0,0,0
+"cons","Quirino","u18","Hypertension",0,0,0
+"uncons","Bataan","all","Hypertension",0,0,0
+"uncons","Bataan","u18","Hypertension",0,0,0
+"cons","Bataan","all","Hypertension",0,0,0
+"cons","Bataan","u18","Hypertension",0,0,0
+"uncons","Bulacan","all","Hypertension",207.028037212672,121.217690309291,286.849251331039
+"cons","Bulacan","all","Hypertension",207.028037212672,121.217690309291,286.849251331039
+"uncons","Nueva Ecija","all","Hypertension",3.97256061082294,0.49866360883226,7.15719932905426
+"cons","Nueva Ecija","all","Hypertension",3.97256061082294,0.49866360883226,7.15719932905426
+"uncons","Pampanga","all","Hypertension",43.6291223367689,20.0787323611095,59.4064794895997
+"cons","Pampanga","all","Hypertension",43.6291223367689,20.0787323611095,59.4064794895997
+"uncons","Tarlac","all","Hypertension",57.6878748681866,34.2232885797476,77.1277230056816
+"cons","Tarlac","all","Hypertension",57.6878748681866,34.2232885797476,77.1277230056816
+"uncons","Zambales","all","Hypertension",0,0,0
+"uncons","Zambales","u18","Hypertension",0,0,0
+"cons","Zambales","all","Hypertension",0,0,0
+"cons","Zambales","u18","Hypertension",0,0,0
+"uncons","Batangas","all","Hypertension",154.382034437877,80.0428348198692,210.097081007439
+"cons","Batangas","all","Hypertension",109.845677101721,69.1517687443998,140.753951824036
+"uncons","Cavite","all","Hypertension",0,0,0
+"uncons","Cavite","u18","Hypertension",0,0,0
+"cons","Cavite","all","Hypertension",0,0,0
+"cons","Cavite","u18","Hypertension",0,0,0
+"uncons","Laguna","all","Hypertension",0,0,0
+"uncons","Laguna","u18","Hypertension",0,0,0
+"cons","Laguna","all","Hypertension",0,0,0
+"cons","Laguna","u18","Hypertension",0,0,0
+"uncons","Quezon","all","Hypertension",22.1164340838849,5.48673637966069,34.8919365847274
+"cons","Quezon","all","Hypertension",22.1164340838849,5.48673637966069,34.8919365847274
+"uncons","Rizal","all","Hypertension",0,0,0
+"uncons","Rizal","u18","Hypertension",0,0,0
+"cons","Rizal","all","Hypertension",0,0,0
+"cons","Rizal","u18","Hypertension",0,0,0
+"uncons","Albay","all","Hypertension",0,0,0
+"uncons","Albay","u18","Hypertension",0,0,0
+"cons","Albay","all","Hypertension",0,0,0
+"cons","Albay","u18","Hypertension",0,0,0
+"uncons","Camarines Norte","all","Hypertension",36.1815185268542,19.97897141289,47.1902775253707
+"cons","Camarines Norte","all","Hypertension",2.66604555649019,1.2425119050586,3.57765425168048
+"uncons","Camarines Sur","all","Hypertension",47.2773140429321,15.3392387105105,74.4919870778472
+"cons","Camarines Sur","all","Hypertension",29.9462153595063,8.85970380111536,47.9653420824391
+"uncons","Catanduanes","all","Hypertension",0,0,0
+"uncons","Catanduanes","u18","Hypertension",0,0,0
+"cons","Catanduanes","all","Hypertension",0,0,0
+"cons","Catanduanes","u18","Hypertension",0,0,0
+"uncons","Masbate","all","Hypertension",0,0,0
+"uncons","Masbate","u18","Hypertension",0,0,0
+"cons","Masbate","all","Hypertension",0,0,0
+"cons","Masbate","u18","Hypertension",0,0,0
+"uncons","Sorsogon","all","Hypertension",0,0,0
+"uncons","Sorsogon","u18","Hypertension",0,0,0
+"cons","Sorsogon","all","Hypertension",0,0,0
+"cons","Sorsogon","u18","Hypertension",0,0,0
+"uncons","Aklan","all","Hypertension",0,0,0
+"uncons","Aklan","u18","Hypertension",0,0,0
+"cons","Aklan","all","Hypertension",0,0,0
+"cons","Aklan","u18","Hypertension",0,0,0
+"uncons","Antique","all","Hypertension",0,0,0
+"uncons","Antique","u18","Hypertension",0,0,0
+"cons","Antique","all","Hypertension",0,0,0
+"cons","Antique","u18","Hypertension",0,0,0
+"uncons","Capiz","all","Hypertension",0,0,0
+"uncons","Capiz","u18","Hypertension",0,0,0
+"cons","Capiz","all","Hypertension",0,0,0
+"cons","Capiz","u18","Hypertension",0,0,0
+"uncons","Iloilo","all","Hypertension",30.7745809153117,3.91404675400646,53.8449162284513
+"cons","Iloilo","all","Hypertension",10.35430466773,1.19283889431202,18.1428836241502
+"uncons","Negros Occidental","all","Hypertension",40.8023160549392,4.17544433820989,71.7601966705135
+"cons","Negros Occidental","all","Hypertension",14.4449145530154,1.50537724710671,25.262241143659
+"uncons","Guimaras","all","Hypertension",0,0,0
+"uncons","Guimaras","u18","Hypertension",0,0,0
+"cons","Guimaras","all","Hypertension",0,0,0
+"cons","Guimaras","u18","Hypertension",0,0,0
+"uncons","Bohol","all","Hypertension",0,0,0
+"uncons","Bohol","u18","Hypertension",0,0,0
+"cons","Bohol","all","Hypertension",0,0,0
+"cons","Bohol","u18","Hypertension",0,0,0
+"uncons","Cebu","all","Hypertension",210.890876514576,132.812190095299,280.570396033326
+"cons","Cebu","all","Hypertension",210.890876514576,132.812190095299,280.570396033326
+"uncons","Negros Oriental","all","Hypertension",198.898128998019,83.3741990762582,295.556883742032
+"cons","Negros Oriental","all","Hypertension",52.9624159158426,19.3382114377849,80.5526831597611
+"uncons","Siquijor","all","Hypertension",0,0,0
+"uncons","Siquijor","u18","Hypertension",0,0,0
+"cons","Siquijor","all","Hypertension",0,0,0
+"cons","Siquijor","u18","Hypertension",0,0,0
+"uncons","Leyte","all","Hypertension",0,0,0
+"uncons","Leyte","u18","Hypertension",0,0,0
+"cons","Leyte","all","Hypertension",0,0,0
+"cons","Leyte","u18","Hypertension",0,0,0
+"uncons","Northern Samar","all","Hypertension",0,0,0
+"uncons","Northern Samar","u18","Hypertension",0,0,0
+"cons","Northern Samar","all","Hypertension",0,0,0
+"cons","Northern Samar","u18","Hypertension",0,0,0
+"uncons","Samar","all","Hypertension",0,0,0
+"uncons","Samar","u18","Hypertension",0,0,0
+"cons","Samar","all","Hypertension",0,0,0
+"cons","Samar","u18","Hypertension",0,0,0
+"uncons","Southern Leyte","all","Hypertension",36.6695817952856,13.2387323281239,54.9211469201585
+"cons","Southern Leyte","all","Hypertension",1.62197127218703,0.568563751626535,2.38745695026661
+"uncons","Zamboanga del Norte","all","Hypertension",210.370685437569,121.884877279627,274.064606458259
+"cons","Zamboanga del Norte","all","Hypertension",41.1623661257473,30.2265476009049,49.5531229605394
+"uncons","Zamboanga del Sur","all","Hypertension",74.4446457692063,13.9018195772153,120.897595981019
+"cons","Zamboanga del Sur","all","Hypertension",10.3123901092102,1.85425374885217,16.603062899041
+"uncons","Zamboanga Sibugay","all","Hypertension",0,0,0
+"uncons","Zamboanga Sibugay","u18","Hypertension",0,0,0
+"cons","Zamboanga Sibugay","all","Hypertension",0,0,0
+"cons","Zamboanga Sibugay","u18","Hypertension",0,0,0
+"uncons","Bukidnon","all","Hypertension",0,0,0
+"uncons","Bukidnon","u18","Hypertension",0,0,0
+"cons","Bukidnon","all","Hypertension",0,0,0
+"cons","Bukidnon","u18","Hypertension",0,0,0
+"uncons","Lanao del Norte","all","Hypertension",31.4999764763327,5.84336853916797,54.7179785944889
+"cons","Lanao del Norte","all","Hypertension",20.7399537144492,3.60543181181231,36.5377511489449
+"uncons","Misamis Occidental","all","Hypertension",86.1465913402484,34.1693439984448,128.973129761379
+"cons","Misamis Occidental","all","Hypertension",26.761701516628,11.5245853446241,39.3186250435322
+"uncons","Misamis Oriental","all","Hypertension",0,0,0
+"uncons","Misamis Oriental","u18","Hypertension",0,0,0
+"cons","Misamis Oriental","all","Hypertension",0,0,0
+"cons","Misamis Oriental","u18","Hypertension",0,0,0
+"uncons","Davao del Norte","all","Hypertension",0,0,0
+"uncons","Davao del Norte","u18","Hypertension",0,0,0
+"cons","Davao del Norte","all","Hypertension",0,0,0
+"cons","Davao del Norte","u18","Hypertension",0,0,0
+"uncons","Davao del Sur","all","Hypertension",0,0,0
+"uncons","Davao del Sur","u18","Hypertension",0,0,0
+"cons","Davao del Sur","all","Hypertension",0,0,0
+"cons","Davao del Sur","u18","Hypertension",0,0,0
+"uncons","Davao Oriental","all","Hypertension",0,0,0
+"uncons","Davao Oriental","u18","Hypertension",0,0,0
+"cons","Davao Oriental","all","Hypertension",0,0,0
+"cons","Davao Oriental","u18","Hypertension",0,0,0
+"uncons","Compostela Valley","all","Hypertension",0,0,0
+"uncons","Compostela Valley","u18","Hypertension",0,0,0
+"cons","Compostela Valley","all","Hypertension",0,0,0
+"cons","Compostela Valley","u18","Hypertension",0,0,0
+"uncons","Cotabato","all","Hypertension",19.7803029248702,2.70558444462782,32.76255227478
+"cons","Cotabato","all","Hypertension",19.7803029248702,2.70558444462782,32.76255227478
+"uncons","South Cotabato","all","Hypertension",672.748916034674,413.106535445387,892.145353473841
+"cons","South Cotabato","all","Hypertension",132.823527480625,84.7248149766977,175.377357741606
+"uncons","Sultan Kudarat","all","Hypertension",15.8866070099552,3.52204695286559,26.2053389699657
+"cons","Sultan Kudarat","all","Hypertension",11.9266329738345,2.99653978822379,19.4986678393202
+"uncons","Sarangani","all","Hypertension",16.5561112119856,5.88963178543142,23.395193294962
+"cons","Sarangani","all","Hypertension",2.1739402826722,1.01060517505521,2.91085558777034
+"uncons","National Capital Region","all","Hypertension",17.5636407596016,0.504259021875206,34.4024054981174
+"cons","National Capital Region","all","Hypertension",17.5636407596016,0.504259021875206,34.4024054981174
+"uncons","Abra","all","Hypertension",0,0,0
+"uncons","Abra","u18","Hypertension",0,0,0
+"cons","Abra","all","Hypertension",0,0,0
+"cons","Abra","u18","Hypertension",0,0,0
+"uncons","Benguet","all","Hypertension",18.0773163296585,5.28090327987628,27.9294153237164
+"cons","Benguet","all","Hypertension",7.37102706097745,1.79231369646434,11.6076576375521
+"uncons","Kalinga","all","Hypertension",0,0,0
+"uncons","Kalinga","u18","Hypertension",0,0,0
+"cons","Kalinga","all","Hypertension",0,0,0
+"cons","Kalinga","u18","Hypertension",0,0,0
+"uncons","Agusan del Norte","all","Hypertension",0,0,0
+"uncons","Agusan del Norte","u18","Hypertension",0,0,0
+"cons","Agusan del Norte","all","Hypertension",0,0,0
+"cons","Agusan del Norte","u18","Hypertension",0,0,0
+"uncons","Agusan del Sur","all","Hypertension",0,0,0
+"uncons","Agusan del Sur","u18","Hypertension",0,0,0
+"cons","Agusan del Sur","all","Hypertension",0,0,0
+"cons","Agusan del Sur","u18","Hypertension",0,0,0
+"uncons","Surigao del Norte","all","Hypertension",92.8562846851967,37.9825051303131,131.635821360693
+"cons","Surigao del Norte","all","Hypertension",12.9030443877864,4.11116296750019,19.3616232380521
+"uncons","Surigao del Sur","all","Hypertension",0,0,0
+"uncons","Surigao del Sur","u18","Hypertension",0,0,0
+"cons","Surigao del Sur","all","Hypertension",0,0,0
+"cons","Surigao del Sur","u18","Hypertension",0,0,0
+"uncons","Occidental Mindoro","all","Hypertension",0,0,0
+"uncons","Occidental Mindoro","u18","Hypertension",0,0,0
+"cons","Occidental Mindoro","all","Hypertension",0,0,0
+"cons","Occidental Mindoro","u18","Hypertension",0,0,0
+"uncons","Oriental Mindoro","all","Hypertension",0,0,0
+"uncons","Oriental Mindoro","u18","Hypertension",0,0,0
+"cons","Oriental Mindoro","all","Hypertension",0,0,0
+"cons","Oriental Mindoro","u18","Hypertension",0,0,0
+"uncons","Palawan","all","Hypertension",0,0,0
+"uncons","Palawan","u18","Hypertension",0,0,0
+"cons","Palawan","all","Hypertension",0,0,0
+"cons","Palawan","u18","Hypertension",0,0,0
+"uncons","Ilocos Norte","all","Myocardial Infarction",242.105283547711,120.988433524309,345.034077364555
+"cons","Ilocos Norte","all","Myocardial Infarction",5.79580916626759,2.84106519754061,8.41298903289101
+"uncons","Ilocos Sur","all","Myocardial Infarction",471.486137776077,307.672228672353,615.237072081316
+"cons","Ilocos Sur","all","Myocardial Infarction",52.6777634777855,30.8998726162089,72.0211388468635
+"uncons","La Union","all","Myocardial Infarction",921.918679113058,704.304345013257,1106.37837364128
+"cons","La Union","all","Myocardial Infarction",110.947251646962,87.6284402882156,130.682994332691
+"uncons","Pangasinan","all","Myocardial Infarction",2269.54183511181,1598.88486964803,2848.83063441976
+"cons","Pangasinan","all","Myocardial Infarction",237.188264787327,157.704191565646,308.888436967468
+"uncons","Cagayan","all","Myocardial Infarction",1010.44886939337,717.722153852171,1265.7530794906
+"cons","Cagayan","all","Myocardial Infarction",126.144480312263,68.3627958865745,176.189079198211
+"uncons","Isabela","all","Myocardial Infarction",371.164460743243,171.599589081937,547.572966200137
+"cons","Isabela","all","Myocardial Infarction",11.5769744070462,2.05038479405171,19.8276475021938
+"uncons","Nueva Vizcaya","all","Myocardial Infarction",0,0,0
+"uncons","Nueva Vizcaya","u18","Myocardial Infarction",0,0,0
+"cons","Nueva Vizcaya","all","Myocardial Infarction",0,0,0
+"cons","Nueva Vizcaya","u18","Myocardial Infarction",0,0,0
+"uncons","Quirino","all","Myocardial Infarction",0,0,0
+"uncons","Quirino","u18","Myocardial Infarction",0,0,0
+"cons","Quirino","all","Myocardial Infarction",0,0,0
+"cons","Quirino","u18","Myocardial Infarction",0,0,0
+"uncons","Bataan","all","Myocardial Infarction",568.112731745816,330.918168760606,780.937573006969
+"cons","Bataan","all","Myocardial Infarction",9.05856330919787,0.692135937544618,16.5138170177566
+"uncons","Bulacan","all","Myocardial Infarction",1391.77098257343,861.561758638444,1887.84566176223
+"cons","Bulacan","all","Myocardial Infarction",690.541023865604,401.575298247883,960.979796474207
+"uncons","Nueva Ecija","all","Myocardial Infarction",1446.43898157704,1076.24346295075,1795.99042201939
+"cons","Nueva Ecija","all","Myocardial Infarction",685.401646112594,541.461847486669,819.11039254905
+"uncons","Pampanga","all","Myocardial Infarction",2419.53989872661,1916.7151449193,2889.25329679966
+"cons","Pampanga","all","Myocardial Infarction",536.209757161142,425.307298343246,644.82778503955
+"uncons","Tarlac","all","Myocardial Infarction",1545.23588767097,1247.41786854919,1806.35299390801
+"cons","Tarlac","all","Myocardial Infarction",626.670816534946,498.467563923091,741.881892670345
+"uncons","Zambales","all","Myocardial Infarction",866.212443658167,503.335412420231,1179.6932867955
+"cons","Zambales","all","Myocardial Infarction",91.9354787545956,39.5619997530585,137.594896988411
+"uncons","Batangas","all","Myocardial Infarction",0,0,0
+"uncons","Batangas","u18","Myocardial Infarction",0,0,0
+"cons","Batangas","all","Myocardial Infarction",0,0,0
+"cons","Batangas","u18","Myocardial Infarction",0,0,0
+"uncons","Cavite","all","Myocardial Infarction",2810.67127591726,2159.11592026885,3421.95745810194
+"cons","Cavite","all","Myocardial Infarction",202.194004205819,135.486029683566,265.327319331671
+"uncons","Laguna","all","Myocardial Infarction",1602.08289140888,969.921960496615,2198.78757686098
+"cons","Laguna","all","Myocardial Infarction",352.060149534987,185.693043480078,511.0638095349
+"uncons","Quezon","all","Myocardial Infarction",1472.59977930979,904.178504065367,1988.1671712276
+"cons","Quezon","all","Myocardial Infarction",33.2691919192824,6.28068022886221,60.6843425413132
+"uncons","Rizal","all","Myocardial Infarction",2975.22941319804,2356.79739423459,3562.28540520185
+"cons","Rizal","all","Myocardial Infarction",1345.60785013494,1054.45741406185,1623.07378020825
+"uncons","Albay","all","Myocardial Infarction",759.902716919152,435.602128953096,1051.48409562388
+"cons","Albay","all","Myocardial Infarction",208.659586668681,95.4210459125812,311.55148188075
+"uncons","Camarines Norte","all","Myocardial Infarction",364.208083991047,183.054259079725,525.222750087684
+"cons","Camarines Norte","all","Myocardial Infarction",2.44003729137838,1.40842543396286,3.36305508318314
+"uncons","Camarines Sur","all","Myocardial Infarction",859.357098541205,539.937899600592,1152.51758617994
+"cons","Camarines Sur","all","Myocardial Infarction",89.3571605815816,46.8659028956193,129.299665607102
+"uncons","Catanduanes","all","Myocardial Infarction",0,0,0
+"uncons","Catanduanes","u18","Myocardial Infarction",0,0,0
+"cons","Catanduanes","all","Myocardial Infarction",0,0,0
+"cons","Catanduanes","u18","Myocardial Infarction",0,0,0
+"uncons","Masbate","all","Myocardial Infarction",0,0,0
+"uncons","Masbate","u18","Myocardial Infarction",0,0,0
+"cons","Masbate","all","Myocardial Infarction",0,0,0
+"cons","Masbate","u18","Myocardial Infarction",0,0,0
+"uncons","Sorsogon","all","Myocardial Infarction",0,0,0
+"uncons","Sorsogon","u18","Myocardial Infarction",0,0,0
+"cons","Sorsogon","all","Myocardial Infarction",0,0,0
+"cons","Sorsogon","u18","Myocardial Infarction",0,0,0
+"uncons","Aklan","all","Myocardial Infarction",473.742723474123,315.507334261338,608.648133583766
+"cons","Aklan","all","Myocardial Infarction",1.94484823489057,0.875596432842604,2.8479649769745
+"uncons","Antique","all","Myocardial Infarction",140.854183013697,37.0387025353738,226.290156353323
+"cons","Antique","all","Myocardial Infarction",0.951805259653912,0.213545579738553,1.6147140198465
+"uncons","Capiz","all","Myocardial Infarction",0,0,0
+"uncons","Capiz","u18","Myocardial Infarction",0,0,0
+"cons","Capiz","all","Myocardial Infarction",0,0,0
+"cons","Capiz","u18","Myocardial Infarction",0,0,0
+"uncons","Iloilo","all","Myocardial Infarction",0,0,0
+"uncons","Iloilo","u18","Myocardial Infarction",0,0,0
+"cons","Iloilo","all","Myocardial Infarction",0,0,0
+"cons","Iloilo","u18","Myocardial Infarction",0,0,0
+"uncons","Negros Occidental","all","Myocardial Infarction",1570.14779265358,1040.59389065368,2037.37659395377
+"cons","Negros Occidental","all","Myocardial Infarction",97.1460646846092,57.5038832797388,131.680345626159
+"uncons","Guimaras","all","Myocardial Infarction",0,0,0
+"uncons","Guimaras","u18","Myocardial Infarction",0,0,0
+"cons","Guimaras","all","Myocardial Infarction",0,0,0
+"cons","Guimaras","u18","Myocardial Infarction",0,0,0
+"uncons","Bohol","all","Myocardial Infarction",737.438898677884,532.985379178552,918.573651295316
+"cons","Bohol","all","Myocardial Infarction",5.02060418968892,0.517414243309634,9.31897877323083
+"uncons","Cebu","all","Myocardial Infarction",2239.66718208303,1493.92696655283,2910.66933860978
+"cons","Cebu","all","Myocardial Infarction",880.091466068482,614.862659556565,1111.78617823565
+"uncons","Negros Oriental","all","Myocardial Infarction",671.585379215322,403.915023824455,913.01171205949
+"cons","Negros Oriental","all","Myocardial Infarction",219.882736279863,136.027763830067,296.129888131655
+"uncons","Siquijor","all","Myocardial Infarction",0,0,0
+"uncons","Siquijor","u18","Myocardial Infarction",0,0,0
+"cons","Siquijor","all","Myocardial Infarction",0,0,0
+"cons","Siquijor","u18","Myocardial Infarction",0,0,0
+"uncons","Leyte","all","Myocardial Infarction",0,0,0
+"uncons","Leyte","u18","Myocardial Infarction",0,0,0
+"cons","Leyte","all","Myocardial Infarction",0,0,0
+"cons","Leyte","u18","Myocardial Infarction",0,0,0
+"uncons","Northern Samar","all","Myocardial Infarction",0,0,0
+"uncons","Northern Samar","u18","Myocardial Infarction",0,0,0
+"cons","Northern Samar","all","Myocardial Infarction",0,0,0
+"cons","Northern Samar","u18","Myocardial Infarction",0,0,0
+"uncons","Samar","all","Myocardial Infarction",0,0,0
+"uncons","Samar","u18","Myocardial Infarction",0,0,0
+"cons","Samar","all","Myocardial Infarction",0,0,0
+"cons","Samar","u18","Myocardial Infarction",0,0,0
+"uncons","Southern Leyte","all","Myocardial Infarction",79.3182282211423,26.6883295276347,122.548910931398
+"cons","Southern Leyte","all","Myocardial Infarction",0.69418735325788,0.381972989842881,0.967153891283807
+"uncons","Zamboanga del Norte","all","Myocardial Infarction",640.981266014978,416.18620946974,827.922696064422
+"cons","Zamboanga del Norte","all","Myocardial Infarction",24.6586520587552,8.86792828234131,37.4207846401684
+"uncons","Zamboanga del Sur","all","Myocardial Infarction",1749.51678009101,1299.52344979449,2140.95420927462
+"cons","Zamboanga del Sur","all","Myocardial Infarction",44.461271611037,27.7174239376683,58.8347885975219
+"uncons","Zamboanga Sibugay","all","Myocardial Infarction",0,0,0
+"uncons","Zamboanga Sibugay","u18","Myocardial Infarction",0,0,0
+"cons","Zamboanga Sibugay","all","Myocardial Infarction",0,0,0
+"cons","Zamboanga Sibugay","u18","Myocardial Infarction",0,0,0
+"uncons","Bukidnon","all","Myocardial Infarction",0,0,0
+"uncons","Bukidnon","u18","Myocardial Infarction",0,0,0
+"cons","Bukidnon","all","Myocardial Infarction",0,0,0
+"cons","Bukidnon","u18","Myocardial Infarction",0,0,0
+"uncons","Lanao del Norte","all","Myocardial Infarction",0,0,0
+"uncons","Lanao del Norte","u18","Myocardial Infarction",0,0,0
+"cons","Lanao del Norte","all","Myocardial Infarction",0,0,0
+"cons","Lanao del Norte","u18","Myocardial Infarction",0,0,0
+"uncons","Misamis Occidental","all","Myocardial Infarction",0,0,0
+"uncons","Misamis Occidental","u18","Myocardial Infarction",0,0,0
+"cons","Misamis Occidental","all","Myocardial Infarction",0,0,0
+"cons","Misamis Occidental","u18","Myocardial Infarction",0,0,0
+"uncons","Misamis Oriental","all","Myocardial Infarction",2247.05574762746,1856.68784926755,2596.58543339558
+"cons","Misamis Oriental","all","Myocardial Infarction",242.219081687215,209.986731879349,272.676223462217
+"uncons","Davao del Norte","all","Myocardial Infarction",896.042678500252,597.279844021043,1156.50877923746
+"cons","Davao del Norte","all","Myocardial Infarction",228.186656936876,143.30969827146,299.844738157601
+"uncons","Davao del Sur","all","Myocardial Infarction",799.786349395953,440.333343207676,1117.52022453406
+"cons","Davao del Sur","all","Myocardial Infarction",67.3224579932024,41.1227742723961,90.2473021407353
+"uncons","Davao Oriental","all","Myocardial Infarction",666.193749676792,569.41560001008,746.785766264055
+"cons","Davao Oriental","all","Myocardial Infarction",132.5226155775,98.6844960525639,160.537665364702
+"uncons","Compostela Valley","all","Myocardial Infarction",383.212299469468,262.593779236218,475.113865861315
+"cons","Compostela Valley","all","Myocardial Infarction",90.7053082844883,62.3480200060574,111.995695023812
+"uncons","Cotabato","all","Myocardial Infarction",520.582989160353,345.942115790301,673.040227296696
+"cons","Cotabato","all","Myocardial Infarction",204.561733795293,122.356967358878,278.537996798736
+"uncons","South Cotabato","all","Myocardial Infarction",570.003736282661,328.319555980273,772.138120235412
+"cons","South Cotabato","all","Myocardial Infarction",4.83622997399051,0.852080183868406,8.42426339017639
+"uncons","Sultan Kudarat","all","Myocardial Infarction",50.698817420325,23.9869564383311,71.5848808484294
+"cons","Sultan Kudarat","all","Myocardial Infarction",5.94945299573213,1.42110070495412,9.4721185212993
+"uncons","Sarangani","all","Myocardial Infarction",101.26466133526,59.8514546543033,133.348327804463
+"cons","Sarangani","all","Myocardial Infarction",2.87021616090353,1.70562318614262,3.78388998292013
+"uncons","National Capital Region","all","Myocardial Infarction",11777.0185623006,9531.48282198195,13858.7840516791
+"cons","National Capital Region","all","Myocardial Infarction",2853.24437607223,2079.01077061525,3557.7208823525
+"uncons","Abra","all","Myocardial Infarction",145.328915229215,65.9591210335662,209.80035874402
+"cons","Abra","all","Myocardial Infarction",2.84185643670074,1.80785055378146,3.68520832545443
+"uncons","Benguet","all","Myocardial Infarction",531.608588993603,372.861635247465,670.16766825911
+"cons","Benguet","all","Myocardial Infarction",3.13498380568554,2.15685148360694,4.01417402609077
+"uncons","Ifugao","all","Myocardial Infarction",0,0,0
+"uncons","Ifugao","u18","Myocardial Infarction",0,0,0
+"cons","Ifugao","all","Myocardial Infarction",0,0,0
+"cons","Ifugao","u18","Myocardial Infarction",0,0,0
+"uncons","Agusan del Norte","all","Myocardial Infarction",0,0,0
+"uncons","Agusan del Norte","u18","Myocardial Infarction",0,0,0
+"cons","Agusan del Norte","all","Myocardial Infarction",0,0,0
+"cons","Agusan del Norte","u18","Myocardial Infarction",0,0,0
+"uncons","Agusan del Sur","all","Myocardial Infarction",352.822936847938,260.131673503263,428.576517660129
+"cons","Agusan del Sur","all","Myocardial Infarction",6.09075719283377,1.00655832348979,10.303353791246
+"uncons","Surigao del Norte","all","Myocardial Infarction",144.870592935161,50.2107663709206,223.500906704798
+"cons","Surigao del Norte","all","Myocardial Infarction",43.0403899883202,16.8413733458148,65.3229205077307
+"uncons","Surigao del Sur","all","Myocardial Infarction",0,0,0
+"uncons","Surigao del Sur","u18","Myocardial Infarction",0,0,0
+"cons","Surigao del Sur","all","Myocardial Infarction",0,0,0
+"cons","Surigao del Sur","u18","Myocardial Infarction",0,0,0
+"uncons","Occidental Mindoro","all","Myocardial Infarction",0,0,0
+"uncons","Occidental Mindoro","u18","Myocardial Infarction",0,0,0
+"cons","Occidental Mindoro","all","Myocardial Infarction",0,0,0
+"cons","Occidental Mindoro","u18","Myocardial Infarction",0,0,0
+"uncons","Oriental Mindoro","all","Myocardial Infarction",474.722551120823,327.528620169972,590.620696732227
+"cons","Oriental Mindoro","all","Myocardial Infarction",4.27990670076325,0.940633629354448,6.56884608542303
+"uncons","Palawan","all","Myocardial Infarction",0,0,0
+"uncons","Palawan","u18","Myocardial Infarction",0,0,0
+"cons","Palawan","all","Myocardial Infarction",0,0,0
+"cons","Palawan","u18","Myocardial Infarction",0,0,0
+"uncons","Ilocos Norte","all","Cerebrovascular Accident",126.293130148365,23.1771357445325,215.278081756752
+"cons","Ilocos Norte","all","Cerebrovascular Accident",1.58746198295113,0.134756181383429,2.98764303041986
+"uncons","Ilocos Sur","all","Cerebrovascular Accident",0,0,0
+"uncons","Ilocos Sur","u18","Cerebrovascular Accident",0,0,0
+"cons","Ilocos Sur","all","Cerebrovascular Accident",0,0,0
+"cons","Ilocos Sur","u18","Cerebrovascular Accident",0,0,0
+"uncons","La Union","all","Cerebrovascular Accident",0,0,0
+"uncons","La Union","u18","Cerebrovascular Accident",0,0,0
+"cons","La Union","all","Cerebrovascular Accident",0,0,0
+"cons","La Union","u18","Cerebrovascular Accident",0,0,0
+"uncons","Pangasinan","all","Cerebrovascular Accident",0,0,0
+"uncons","Pangasinan","u18","Cerebrovascular Accident",0,0,0
+"cons","Pangasinan","all","Cerebrovascular Accident",0,0,0
+"cons","Pangasinan","u18","Cerebrovascular Accident",0,0,0
+"uncons","Cagayan","all","Cerebrovascular Accident",0,0,0
+"uncons","Cagayan","u18","Cerebrovascular Accident",0,0,0
+"cons","Cagayan","all","Cerebrovascular Accident",0,0,0
+"cons","Cagayan","u18","Cerebrovascular Accident",0,0,0
+"uncons","Isabela","all","Cerebrovascular Accident",0,0,0
+"uncons","Isabela","u18","Cerebrovascular Accident",0,0,0
+"cons","Isabela","all","Cerebrovascular Accident",0,0,0
+"cons","Isabela","u18","Cerebrovascular Accident",0,0,0
+"uncons","Nueva Vizcaya","all","Cerebrovascular Accident",121.289794342133,43.3175432262824,185.464738064998
+"cons","Nueva Vizcaya","all","Cerebrovascular Accident",2.53328018062584,0.389269603851437,4.43430009531256
+"uncons","Quirino","all","Cerebrovascular Accident",0,0,0
+"uncons","Quirino","u18","Cerebrovascular Accident",0,0,0
+"cons","Quirino","all","Cerebrovascular Accident",0,0,0
+"cons","Quirino","u18","Cerebrovascular Accident",0,0,0
+"uncons","Bataan","all","Cerebrovascular Accident",0,0,0
+"uncons","Bataan","u18","Cerebrovascular Accident",0,0,0
+"cons","Bataan","all","Cerebrovascular Accident",0,0,0
+"cons","Bataan","u18","Cerebrovascular Accident",0,0,0
+"uncons","Bulacan","all","Cerebrovascular Accident",0,0,0
+"uncons","Bulacan","u18","Cerebrovascular Accident",0,0,0
+"cons","Bulacan","all","Cerebrovascular Accident",0,0,0
+"cons","Bulacan","u18","Cerebrovascular Accident",0,0,0
+"uncons","Nueva Ecija","all","Cerebrovascular Accident",45.1811516137178,0.954987512514564,84.6462580024702
+"cons","Nueva Ecija","all","Cerebrovascular Accident",9.12806510237403,-0.086468148603084,17.2468852792299
+"uncons","Pampanga","all","Cerebrovascular Accident",0,0,0
+"uncons","Pampanga","u18","Cerebrovascular Accident",0,0,0
+"cons","Pampanga","all","Cerebrovascular Accident",0,0,0
+"cons","Pampanga","u18","Cerebrovascular Accident",0,0,0
+"uncons","Tarlac","all","Cerebrovascular Accident",0,0,0
+"uncons","Tarlac","u18","Cerebrovascular Accident",0,0,0
+"cons","Tarlac","all","Cerebrovascular Accident",0,0,0
+"cons","Tarlac","u18","Cerebrovascular Accident",0,0,0
+"uncons","Zambales","all","Cerebrovascular Accident",0,0,0
+"uncons","Zambales","u18","Cerebrovascular Accident",0,0,0
+"cons","Zambales","all","Cerebrovascular Accident",0,0,0
+"cons","Zambales","u18","Cerebrovascular Accident",0,0,0
+"uncons","Batangas","all","Cerebrovascular Accident",0,0,0
+"uncons","Batangas","u18","Cerebrovascular Accident",0,0,0
+"cons","Batangas","all","Cerebrovascular Accident",0,0,0
+"cons","Batangas","u18","Cerebrovascular Accident",0,0,0
+"uncons","Cavite","all","Cerebrovascular Accident",0,0,0
+"uncons","Cavite","u18","Cerebrovascular Accident",0,0,0
+"cons","Cavite","all","Cerebrovascular Accident",0,0,0
+"cons","Cavite","u18","Cerebrovascular Accident",0,0,0
+"uncons","Laguna","all","Cerebrovascular Accident",0,0,0
+"uncons","Laguna","u18","Cerebrovascular Accident",0,0,0
+"cons","Laguna","all","Cerebrovascular Accident",0,0,0
+"cons","Laguna","u18","Cerebrovascular Accident",0,0,0
+"uncons","Quezon","all","Cerebrovascular Accident",0,0,0
+"uncons","Quezon","u18","Cerebrovascular Accident",0,0,0
+"cons","Quezon","all","Cerebrovascular Accident",0,0,0
+"cons","Quezon","u18","Cerebrovascular Accident",0,0,0
+"uncons","Rizal","all","Cerebrovascular Accident",148.685602399796,47.3923313146945,244.715090047921
+"cons","Rizal","all","Cerebrovascular Accident",28.0466652911485,8.22751061556074,47.7983202391989
+"uncons","Albay","all","Cerebrovascular Accident",609.969636841892,258.949446918646,930.970813757405
+"cons","Albay","all","Cerebrovascular Accident",274.049238213053,132.084292276374,406.011268265638
+"uncons","Camarines Norte","all","Cerebrovascular Accident",0,0,0
+"uncons","Camarines Norte","u18","Cerebrovascular Accident",0,0,0
+"cons","Camarines Norte","all","Cerebrovascular Accident",0,0,0
+"cons","Camarines Norte","u18","Cerebrovascular Accident",0,0,0
+"uncons","Camarines Sur","all","Cerebrovascular Accident",574.890432589401,249.774676206254,875.365002285121
+"cons","Camarines Sur","all","Cerebrovascular Accident",22.011806135705,6.33626168595193,36.7458784169356
+"uncons","Catanduanes","all","Cerebrovascular Accident",0,0,0
+"uncons","Catanduanes","u18","Cerebrovascular Accident",0,0,0
+"cons","Catanduanes","all","Cerebrovascular Accident",0,0,0
+"cons","Catanduanes","u18","Cerebrovascular Accident",0,0,0
+"uncons","Masbate","all","Cerebrovascular Accident",528.208004137397,310.123659251803,715.27808387291
+"cons","Masbate","all","Cerebrovascular Accident",5.09113154794568,0.0661246158817108,8.91516432996308
+"uncons","Sorsogon","all","Cerebrovascular Accident",0,0,0
+"uncons","Sorsogon","u18","Cerebrovascular Accident",0,0,0
+"cons","Sorsogon","all","Cerebrovascular Accident",0,0,0
+"cons","Sorsogon","u18","Cerebrovascular Accident",0,0,0
+"uncons","Aklan","all","Cerebrovascular Accident",0,0,0
+"uncons","Aklan","u18","Cerebrovascular Accident",0,0,0
+"cons","Aklan","all","Cerebrovascular Accident",0,0,0
+"cons","Aklan","u18","Cerebrovascular Accident",0,0,0
+"uncons","Antique","all","Cerebrovascular Accident",82.9047717749889,20.1470549293328,136.194406132297
+"cons","Antique","all","Cerebrovascular Accident",1.46371170473887,0.0695840107036964,2.60234716067111
+"uncons","Capiz","all","Cerebrovascular Accident",0,0,0
+"uncons","Capiz","u18","Cerebrovascular Accident",0,0,0
+"cons","Capiz","all","Cerebrovascular Accident",0,0,0
+"cons","Capiz","u18","Cerebrovascular Accident",0,0,0
+"uncons","Iloilo","all","Cerebrovascular Accident",221.738748698759,70.9051878256662,352.42595076577
+"cons","Iloilo","all","Cerebrovascular Accident",6.54532171346729,2.91378024549427,9.78313425681182
+"uncons","Negros Occidental","all","Cerebrovascular Accident",377.410326716257,179.469828264691,569.129329200293
+"cons","Negros Occidental","all","Cerebrovascular Accident",33.3190468373258,17.1305720423363,48.7102590053841
+"uncons","Guimaras","all","Cerebrovascular Accident",0,0,0
+"uncons","Guimaras","u18","Cerebrovascular Accident",0,0,0
+"cons","Guimaras","all","Cerebrovascular Accident",0,0,0
+"cons","Guimaras","u18","Cerebrovascular Accident",0,0,0
+"uncons","Bohol","all","Cerebrovascular Accident",0,0,0
+"uncons","Bohol","u18","Cerebrovascular Accident",0,0,0
+"cons","Bohol","all","Cerebrovascular Accident",0,0,0
+"cons","Bohol","u18","Cerebrovascular Accident",0,0,0
+"uncons","Cebu","all","Cerebrovascular Accident",0,0,0
+"uncons","Cebu","u18","Cerebrovascular Accident",0,0,0
+"cons","Cebu","all","Cerebrovascular Accident",0,0,0
+"cons","Cebu","u18","Cerebrovascular Accident",0,0,0
+"uncons","Negros Oriental","all","Cerebrovascular Accident",0,0,0
+"uncons","Negros Oriental","u18","Cerebrovascular Accident",0,0,0
+"cons","Negros Oriental","all","Cerebrovascular Accident",0,0,0
+"cons","Negros Oriental","u18","Cerebrovascular Accident",0,0,0
+"uncons","Siquijor","all","Cerebrovascular Accident",0,0,0
+"uncons","Siquijor","u18","Cerebrovascular Accident",0,0,0
+"cons","Siquijor","all","Cerebrovascular Accident",0,0,0
+"cons","Siquijor","u18","Cerebrovascular Accident",0,0,0
+"uncons","Leyte","all","Cerebrovascular Accident",0,0,0
+"uncons","Leyte","u18","Cerebrovascular Accident",0,0,0
+"cons","Leyte","all","Cerebrovascular Accident",0,0,0
+"cons","Leyte","u18","Cerebrovascular Accident",0,0,0
+"uncons","Northern Samar","all","Cerebrovascular Accident",0,0,0
+"uncons","Northern Samar","u18","Cerebrovascular Accident",0,0,0
+"cons","Northern Samar","all","Cerebrovascular Accident",0,0,0
+"cons","Northern Samar","u18","Cerebrovascular Accident",0,0,0
+"uncons","Samar","all","Cerebrovascular Accident",0,0,0
+"uncons","Samar","u18","Cerebrovascular Accident",0,0,0
+"cons","Samar","all","Cerebrovascular Accident",0,0,0
+"cons","Samar","u18","Cerebrovascular Accident",0,0,0
+"uncons","Southern Leyte","all","Cerebrovascular Accident",0,0,0
+"uncons","Southern Leyte","u18","Cerebrovascular Accident",0,0,0
+"cons","Southern Leyte","all","Cerebrovascular Accident",0,0,0
+"cons","Southern Leyte","u18","Cerebrovascular Accident",0,0,0
+"uncons","Zamboanga del Norte","all","Cerebrovascular Accident",76.33013162565,31.4688648975526,112.947151062757
+"cons","Zamboanga del Norte","all","Cerebrovascular Accident",47.729996930459,25.4549075631843,66.4526632968261
+"uncons","Zamboanga del Sur","all","Cerebrovascular Accident",369.58507418808,158.28363326038,552.186885503925
+"cons","Zamboanga del Sur","all","Cerebrovascular Accident",7.53827352653281,2.91963150710391,11.5457527784739
+"uncons","Zamboanga Sibugay","all","Cerebrovascular Accident",0,0,0
+"uncons","Zamboanga Sibugay","u18","Cerebrovascular Accident",0,0,0
+"cons","Zamboanga Sibugay","all","Cerebrovascular Accident",0,0,0
+"cons","Zamboanga Sibugay","u18","Cerebrovascular Accident",0,0,0
+"uncons","Bukidnon","all","Cerebrovascular Accident",0,0,0
+"uncons","Bukidnon","u18","Cerebrovascular Accident",0,0,0
+"cons","Bukidnon","all","Cerebrovascular Accident",0,0,0
+"cons","Bukidnon","u18","Cerebrovascular Accident",0,0,0
+"uncons","Lanao del Norte","all","Cerebrovascular Accident",6.45847828205091,1.0328236018632,10.8959122938623
+"cons","Lanao del Norte","all","Cerebrovascular Accident",6.45847828205091,1.0328236018632,10.8959122938623
+"uncons","Misamis Occidental","all","Cerebrovascular Accident",0,0,0
+"uncons","Misamis Occidental","u18","Cerebrovascular Accident",0,0,0
+"cons","Misamis Occidental","all","Cerebrovascular Accident",0,0,0
+"cons","Misamis Occidental","u18","Cerebrovascular Accident",0,0,0
+"uncons","Misamis Oriental","all","Cerebrovascular Accident",640.058083718183,332.821690052067,919.037346694973
+"cons","Misamis Oriental","all","Cerebrovascular Accident",66.4710872369981,39.8618497814444,90.7746477521646
+"uncons","Davao del Norte","all","Cerebrovascular Accident",1594.02581881396,1260.13495853592,1883.44540339578
+"cons","Davao del Norte","all","Cerebrovascular Accident",380.315502700104,270.754684759696,473.965641160667
+"uncons","Davao del Sur","all","Cerebrovascular Accident",0,0,0
+"uncons","Davao del Sur","u18","Cerebrovascular Accident",0,0,0
+"cons","Davao del Sur","all","Cerebrovascular Accident",0,0,0
+"cons","Davao del Sur","u18","Cerebrovascular Accident",0,0,0
+"uncons","Davao Oriental","all","Cerebrovascular Accident",0,0,0
+"uncons","Davao Oriental","u18","Cerebrovascular Accident",0,0,0
+"cons","Davao Oriental","all","Cerebrovascular Accident",0,0,0
+"cons","Davao Oriental","u18","Cerebrovascular Accident",0,0,0
+"uncons","Compostela Valley","all","Cerebrovascular Accident",285.261163794421,151.146106202389,397.541331117075
+"cons","Compostela Valley","all","Cerebrovascular Accident",67.8285293497035,35.3028990467149,94.9516049637063
+"uncons","Cotabato","all","Cerebrovascular Accident",107.322436399141,28.9964082230646,177.587258112969
+"cons","Cotabato","all","Cerebrovascular Accident",72.5374841537638,24.873481480681,115.43034040542
+"uncons","South Cotabato","all","Cerebrovascular Accident",0,0,0
+"uncons","South Cotabato","u18","Cerebrovascular Accident",0,0,0
+"cons","South Cotabato","all","Cerebrovascular Accident",0,0,0
+"cons","South Cotabato","u18","Cerebrovascular Accident",0,0,0
+"uncons","Sultan Kudarat","all","Cerebrovascular Accident",52.911339300926,15.3062873210329,83.885971849139
+"cons","Sultan Kudarat","all","Cerebrovascular Accident",29.971508319083,11.1108930851981,45.4631872628286
+"uncons","Sarangani","all","Cerebrovascular Accident",167.036606501197,52.3804777339256,263.309134391613
+"cons","Sarangani","all","Cerebrovascular Accident",0.902530353880514,0.118529346433755,1.53234666297078
+"uncons","National Capital Region","all","Cerebrovascular Accident",0,0,0
+"uncons","National Capital Region","u18","Cerebrovascular Accident",0,0,0
+"cons","National Capital Region","all","Cerebrovascular Accident",0,0,0
+"cons","National Capital Region","u18","Cerebrovascular Accident",0,0,0
+"uncons","Abra","all","Cerebrovascular Accident",101.941618020151,31.6787905416335,160.426517173902
+"cons","Abra","all","Cerebrovascular Accident",0.945215969227163,0.161700129546193,1.5805042702102
+"uncons","Benguet","all","Cerebrovascular Accident",215.525289545744,89.1476459867971,322.740904920974
+"cons","Benguet","all","Cerebrovascular Accident",3.03106308306711,1.20544423577189,4.61381299747979
+"uncons","Ifugao","all","Cerebrovascular Accident",0,0,0
+"uncons","Ifugao","u18","Cerebrovascular Accident",0,0,0
+"cons","Ifugao","all","Cerebrovascular Accident",0,0,0
+"cons","Ifugao","u18","Cerebrovascular Accident",0,0,0
+"uncons","Kalinga","all","Cerebrovascular Accident",0,0,0
+"uncons","Kalinga","u18","Cerebrovascular Accident",0,0,0
+"cons","Kalinga","all","Cerebrovascular Accident",0,0,0
+"cons","Kalinga","u18","Cerebrovascular Accident",0,0,0
+"uncons","Apayao","all","Cerebrovascular Accident",0,0,0
+"uncons","Apayao","u18","Cerebrovascular Accident",0,0,0
+"cons","Apayao","all","Cerebrovascular Accident",0,0,0
+"cons","Apayao","u18","Cerebrovascular Accident",0,0,0
+"uncons","Agusan del Norte","all","Cerebrovascular Accident",0,0,0
+"uncons","Agusan del Norte","u18","Cerebrovascular Accident",0,0,0
+"cons","Agusan del Norte","all","Cerebrovascular Accident",0,0,0
+"cons","Agusan del Norte","u18","Cerebrovascular Accident",0,0,0
+"uncons","Agusan del Sur","all","Cerebrovascular Accident",166.220458230992,59.8310802627201,250.189609866417
+"cons","Agusan del Sur","all","Cerebrovascular Accident",0.918516769790227,0.0454947995286169,1.61402371505143
+"uncons","Surigao del Norte","all","Cerebrovascular Accident",0,0,0
+"uncons","Surigao del Norte","u18","Cerebrovascular Accident",0,0,0
+"cons","Surigao del Norte","all","Cerebrovascular Accident",0,0,0
+"cons","Surigao del Norte","u18","Cerebrovascular Accident",0,0,0
+"uncons","Surigao del Sur","all","Cerebrovascular Accident",0,0,0
+"uncons","Surigao del Sur","u18","Cerebrovascular Accident",0,0,0
+"cons","Surigao del Sur","all","Cerebrovascular Accident",0,0,0
+"cons","Surigao del Sur","u18","Cerebrovascular Accident",0,0,0
+"uncons","Occidental Mindoro","all","Cerebrovascular Accident",0,0,0
+"uncons","Occidental Mindoro","u18","Cerebrovascular Accident",0,0,0
+"cons","Occidental Mindoro","all","Cerebrovascular Accident",0,0,0
+"cons","Occidental Mindoro","u18","Cerebrovascular Accident",0,0,0
+"uncons","Oriental Mindoro","all","Cerebrovascular Accident",0,0,0
+"uncons","Oriental Mindoro","u18","Cerebrovascular Accident",0,0,0
+"cons","Oriental Mindoro","all","Cerebrovascular Accident",0,0,0
+"cons","Oriental Mindoro","u18","Cerebrovascular Accident",0,0,0
+"uncons","Palawan","all","Cerebrovascular Accident",0,0,0
+"uncons","Palawan","u18","Cerebrovascular Accident",0,0,0
+"cons","Palawan","all","Cerebrovascular Accident",0,0,0
+"cons","Palawan","u18","Cerebrovascular Accident",0,0,0
+"uncons","Ilocos Sur","all","Unknown Cause",0,0,0
+"uncons","Ilocos Sur","u18","Unknown Cause",0,0,0
+"cons","Ilocos Sur","all","Unknown Cause",0,0,0
+"cons","Ilocos Sur","u18","Unknown Cause",0,0,0
+"uncons","La Union","all","Unknown Cause",912.784174021931,805.690930204194,989.78917380453
+"cons","La Union","all","Unknown Cause",20.2790044611451,7.47571973839149,28.8631636288827
+"uncons","Pangasinan","all","Unknown Cause",1051.24977301485,831.352841739455,1236.63349065415
+"cons","Pangasinan","all","Unknown Cause",28.0936137512911,19.0083717818916,34.9588535874364
+"uncons","Pangasinan","u18","Unknown Cause",12.2888940878258,5.36115203929732,17.3458189242983
+"cons","Pangasinan","u18","Unknown Cause",0,0,0
+"uncons","Cagayan","all","Unknown Cause",757.993079831736,678.772159742376,815.701969554175
+"cons","Cagayan","all","Unknown Cause",34.0746485182678,28.2266538014828,38.5332970805437
+"uncons","Isabela","all","Unknown Cause",316.431651625284,254.322185199394,362.425568750959
+"cons","Isabela","all","Unknown Cause",0.954407463619152,0.180665611582881,1.49714079987308
+"uncons","Nueva Vizcaya","all","Unknown Cause",50.4227744129854,21.4442106226496,70.2305712067728
+"cons","Nueva Vizcaya","all","Unknown Cause",0.911975480519032,0.427216927275864,1.25490177500929
+"uncons","Bulacan","all","Unknown Cause",192.978228303363,83.9317123190082,281.6737877044
+"cons","Bulacan","all","Unknown Cause",102.19836630519,44.0322566900364,150.922195111752
+"uncons","Nueva Ecija","all","Unknown Cause",189.885370452438,112.752042587508,247.959062482616
+"cons","Nueva Ecija","all","Unknown Cause",88.121033195158,53.681599958984,112.997067480978
+"uncons","Pampanga","all","Unknown Cause",172.06741589733,90.5072082270067,229.255055168054
+"cons","Pampanga","all","Unknown Cause",0,0,0
+"uncons","Tarlac","all","Unknown Cause",94.0462919334821,46.2345074954744,131.358484520979
+"cons","Tarlac","all","Unknown Cause",18.6706295067982,5.46293609194082,29.3062380883428
+"uncons","Batangas","all","Unknown Cause",0,0,0
+"uncons","Batangas","u18","Unknown Cause",0,0,0
+"cons","Batangas","all","Unknown Cause",0,0,0
+"cons","Batangas","u18","Unknown Cause",0,0,0
+"uncons","Cavite","all","Unknown Cause",0,0,0
+"uncons","Cavite","u18","Unknown Cause",0,0,0
+"cons","Cavite","all","Unknown Cause",0,0,0
+"cons","Cavite","u18","Unknown Cause",0,0,0
+"uncons","Laguna","all","Unknown Cause",409.777323073813,274.207360354894,525.957624896044
+"cons","Laguna","all","Unknown Cause",76.4738809333089,42.896604250534,106.336976209136
+"uncons","Quezon","all","Unknown Cause",0,0,0
+"uncons","Quezon","u18","Unknown Cause",0,0,0
+"cons","Quezon","all","Unknown Cause",0,0,0
+"cons","Quezon","u18","Unknown Cause",0,0,0
+"uncons","Rizal","all","Unknown Cause",260.952647626843,215.684395329179,293.047660183955
+"cons","Rizal","all","Unknown Cause",146.38689825315,118.139038345095,165.813828074788
+"uncons","Camarines Norte","all","Unknown Cause",0,0,0
+"uncons","Camarines Norte","u18","Unknown Cause",0,0,0
+"cons","Camarines Norte","all","Unknown Cause",0,0,0
+"cons","Camarines Norte","u18","Unknown Cause",0,0,0
+"uncons","Camarines Sur","all","Unknown Cause",197.010594931526,99.9382493428016,267.32985050543
+"cons","Camarines Sur","all","Unknown Cause",30.993428924717,16.9481804678832,41.3741222317101
+"uncons","Masbate","all","Unknown Cause",0,0,0
+"uncons","Masbate","u18","Unknown Cause",0,0,0
+"cons","Masbate","all","Unknown Cause",0,0,0
+"cons","Masbate","u18","Unknown Cause",0,0,0
+"uncons","Sorsogon","all","Unknown Cause",0,0,0
+"uncons","Sorsogon","u18","Unknown Cause",0,0,0
+"cons","Sorsogon","all","Unknown Cause",0,0,0
+"cons","Sorsogon","u18","Unknown Cause",0,0,0
+"uncons","Aklan","all","Unknown Cause",209.440435107242,147.166479678776,248.645667593944
+"cons","Aklan","all","Unknown Cause",0.578666388834716,0.21405590142523,0.775101634283282
+"uncons","Iloilo","all","Unknown Cause",2193.84882573546,2082.50202611767,2284.43818326317
+"cons","Iloilo","all","Unknown Cause",92.3081506650933,87.231993271007,96.4337080911755
+"uncons","Negros Occidental","all","Unknown Cause",1093.60176111644,868.916585184483,1237.59229592312
+"cons","Negros Occidental","all","Unknown Cause",96.3250010158285,76.6422673682213,108.42735727632
+"uncons","Bohol","all","Unknown Cause",0,0,0
+"uncons","Bohol","u18","Unknown Cause",0,0,0
+"cons","Bohol","all","Unknown Cause",0,0,0
+"cons","Bohol","u18","Unknown Cause",0,0,0
+"uncons","Cebu","all","Unknown Cause",1203.77754483456,1060.27904834174,1317.1675051205
+"cons","Cebu","all","Unknown Cause",328.455696843965,294.705448467897,355.195233177122
+"uncons","Negros Oriental","all","Unknown Cause",0,0,0
+"uncons","Negros Oriental","u18","Unknown Cause",0,0,0
+"cons","Negros Oriental","all","Unknown Cause",0,0,0
+"cons","Negros Oriental","u18","Unknown Cause",0,0,0
+"uncons","Siquijor","all","Unknown Cause",0,0,0
+"uncons","Siquijor","u18","Unknown Cause",0,0,0
+"cons","Siquijor","all","Unknown Cause",0,0,0
+"cons","Siquijor","u18","Unknown Cause",0,0,0
+"uncons","Leyte","all","Unknown Cause",0,0,0
+"uncons","Leyte","u18","Unknown Cause",0,0,0
+"cons","Leyte","all","Unknown Cause",0,0,0
+"cons","Leyte","u18","Unknown Cause",0,0,0
+"uncons","Northern Samar","all","Unknown Cause",0,0,0
+"uncons","Northern Samar","u18","Unknown Cause",0,0,0
+"cons","Northern Samar","all","Unknown Cause",0,0,0
+"cons","Northern Samar","u18","Unknown Cause",0,0,0
+"uncons","Samar","all","Unknown Cause",0,0,0
+"uncons","Samar","u18","Unknown Cause",0,0,0
+"cons","Samar","all","Unknown Cause",0,0,0
+"cons","Samar","u18","Unknown Cause",0,0,0
+"uncons","Southern Leyte","all","Unknown Cause",209.747880402686,121.96517638571,265.357988590398
+"cons","Southern Leyte","all","Unknown Cause",0,0,0
+"uncons","Zamboanga del Norte","all","Unknown Cause",0,0,0
+"uncons","Zamboanga del Norte","u18","Unknown Cause",0,0,0
+"cons","Zamboanga del Norte","all","Unknown Cause",0,0,0
+"cons","Zamboanga del Norte","u18","Unknown Cause",0,0,0
+"uncons","Zamboanga del Sur","all","Unknown Cause",324.71137603827,250.247289965154,381.973034745384
+"cons","Zamboanga del Sur","all","Unknown Cause",4.59949450614326,2.3104753601068,6.27987506902391
+"uncons","Zamboanga Sibugay","all","Unknown Cause",0,0,0
+"uncons","Zamboanga Sibugay","u18","Unknown Cause",0,0,0
+"cons","Zamboanga Sibugay","all","Unknown Cause",0,0,0
+"cons","Zamboanga Sibugay","u18","Unknown Cause",0,0,0
+"uncons","Bukidnon","all","Unknown Cause",0,0,0
+"uncons","Bukidnon","u18","Unknown Cause",0,0,0
+"cons","Bukidnon","all","Unknown Cause",0,0,0
+"cons","Bukidnon","u18","Unknown Cause",0,0,0
+"uncons","Lanao del Norte","all","Unknown Cause",0,0,0
+"uncons","Lanao del Norte","u18","Unknown Cause",0,0,0
+"cons","Lanao del Norte","all","Unknown Cause",0,0,0
+"cons","Lanao del Norte","u18","Unknown Cause",0,0,0
+"uncons","Misamis Occidental","all","Unknown Cause",234.200914098602,157.39719901768,281.97871365816
+"cons","Misamis Occidental","all","Unknown Cause",2.30762607183358,0.747771886301276,3.09714628493728
+"uncons","Misamis Oriental","all","Unknown Cause",125.8851967737,70.6290989678401,161.370120730762
+"cons","Misamis Oriental","all","Unknown Cause",20.0651080805663,12.5614158682292,25.2039462347206
+"uncons","Davao del Norte","all","Unknown Cause",543.364548575898,468.888536212581,591.469723771302
+"cons","Davao del Norte","all","Unknown Cause",94.0380255814596,68.6031963601294,109.673933664914
+"uncons","Davao del Sur","all","Unknown Cause",0,0,0
+"uncons","Davao del Sur","u18","Unknown Cause",0,0,0
+"cons","Davao del Sur","all","Unknown Cause",0,0,0
+"cons","Davao del Sur","u18","Unknown Cause",0,0,0
+"uncons","Davao Oriental","all","Unknown Cause",76.3064948720646,39.8653266075565,99.4341049249285
+"cons","Davao Oriental","all","Unknown Cause",39.9071254252154,21.4040238294406,51.574644576978
+"uncons","Compostela Valley","all","Unknown Cause",0,0,0
+"uncons","Compostela Valley","u18","Unknown Cause",0,0,0
+"cons","Compostela Valley","all","Unknown Cause",0,0,0
+"cons","Compostela Valley","u18","Unknown Cause",0,0,0
+"uncons","Cotabato","all","Unknown Cause",337.967444255957,223.241743727119,427.99249306473
+"cons","Cotabato","all","Unknown Cause",100.868929532292,55.6492845007178,137.266401021667
+"uncons","South Cotabato","all","Unknown Cause",285.935295970263,231.508545541475,324.138884402359
+"cons","South Cotabato","all","Unknown Cause",61.0750546555204,52.3313598484883,67.8784353487931
+"uncons","Sarangani","all","Unknown Cause",0,0,0
+"uncons","Sarangani","u18","Unknown Cause",0,0,0
+"cons","Sarangani","all","Unknown Cause",0,0,0
+"cons","Sarangani","u18","Unknown Cause",0,0,0
+"uncons","National Capital Region","all","Unknown Cause",602.079583996672,342.06995259936,836.208908723761
+"cons","National Capital Region","all","Unknown Cause",195.465432683982,125.582957283777,259.557747573868
+"uncons","National Capital Region","u18","Unknown Cause",1.51230867514415,0.0702096599129232,2.57692800360167
+"cons","National Capital Region","u18","Unknown Cause",0,0,0
+"uncons","Agusan del Norte","all","Unknown Cause",614.042478488176,459.705466719544,726.11841784832
+"cons","Agusan del Norte","all","Unknown Cause",135.992314587275,97.0670222928099,163.738021872123
+"uncons","Agusan del Sur","all","Unknown Cause",171.363885961566,84.2453491171702,243.352934873166
+"cons","Agusan del Sur","all","Unknown Cause",56.101827767215,25.8588540592979,80.8502779013763
+"uncons","Surigao del Norte","all","Unknown Cause",275.452975415019,211.690506244714,323.473089941772
+"cons","Surigao del Norte","all","Unknown Cause",21.4269735661236,6.0080061959373,32.2590836903987
+"uncons","Surigao del Sur","all","Unknown Cause",0,0,0
+"uncons","Surigao del Sur","u18","Unknown Cause",0,0,0
+"cons","Surigao del Sur","all","Unknown Cause",0,0,0
+"cons","Surigao del Sur","u18","Unknown Cause",0,0,0
+"uncons","Occidental Mindoro","all","Unknown Cause",0,0,0
+"uncons","Occidental Mindoro","u18","Unknown Cause",0,0,0
+"cons","Occidental Mindoro","all","Unknown Cause",0,0,0
+"cons","Occidental Mindoro","u18","Unknown Cause",0,0,0
+"uncons","Oriental Mindoro","all","Unknown Cause",0,0,0
+"uncons","Oriental Mindoro","u18","Unknown Cause",0,0,0
+"cons","Oriental Mindoro","all","Unknown Cause",0,0,0
+"cons","Oriental Mindoro","u18","Unknown Cause",0,0,0
+"uncons","Palawan","all","Unknown Cause",0,0,0
+"uncons","Palawan","u18","Unknown Cause",0,0,0
+"cons","Palawan","all","Unknown Cause",0,0,0
+"cons","Palawan","u18","Unknown Cause",0,0,0
+"uncons","Ilocos Norte","all","Other Causes",0,0,0
+"uncons","Ilocos Norte","u18","Other Causes",0,0,0
+"cons","Ilocos Norte","all","Other Causes",0,0,0
+"cons","Ilocos Norte","u18","Other Causes",0,0,0
+"uncons","Ilocos Sur","all","Other Causes",0,0,0
+"uncons","Ilocos Sur","u18","Other Causes",0,0,0
+"cons","Ilocos Sur","all","Other Causes",0,0,0
+"cons","Ilocos Sur","u18","Other Causes",0,0,0
+"uncons","La Union","all","Other Causes",0,0,0
+"uncons","La Union","u18","Other Causes",0,0,0
+"cons","La Union","all","Other Causes",0,0,0
+"cons","La Union","u18","Other Causes",0,0,0
+"uncons","Pangasinan","all","Other Causes",0,0,0
+"uncons","Pangasinan","u18","Other Causes",0,0,0
+"cons","Pangasinan","all","Other Causes",0,0,0
+"cons","Pangasinan","u18","Other Causes",0,0,0
+"uncons","Cagayan","all","Other Causes",815.108059088133,378.800216510923,1219.18523222919
+"cons","Cagayan","all","Other Causes",285.677837431314,156.736964557669,406.843664027181
+"uncons","Cagayan","u18","Other Causes",0,0,0
+"cons","Cagayan","u18","Other Causes",0,0,0
+"uncons","Isabela","all","Other Causes",753.415925721192,324.968295889568,1169.64227105915
+"cons","Isabela","all","Other Causes",166.050018975133,77.9134122798903,252.025671571294
+"uncons","Isabela","u18","Other Causes",0,0,0
+"cons","Isabela","u18","Other Causes",0,0,0
+"uncons","Nueva Vizcaya","all","Other Causes",326.938050518122,115.794169980003,511.036388288634
+"cons","Nueva Vizcaya","all","Other Causes",8.19177594107197,1.94460877653136,13.8631062435907
+"uncons","Nueva Vizcaya","u18","Other Causes",0,0,0
+"cons","Nueva Vizcaya","u18","Other Causes",0,0,0
+"uncons","Quirino","all","Other Causes",0,0,0
+"uncons","Quirino","u18","Other Causes",0,0,0
+"cons","Quirino","all","Other Causes",0,0,0
+"cons","Quirino","u18","Other Causes",0,0,0
+"uncons","Bataan","all","Other Causes",84.2073777658322,16.9560166683829,150.757492624007
+"cons","Bataan","all","Other Causes",31.1435224800332,6.44332451971183,56.4225625342492
+"uncons","Bataan","u18","Other Causes",222.40771288453,113.725457022636,312.632008356504
+"cons","Bataan","u18","Other Causes",0,0,0
+"uncons","Bulacan","all","Other Causes",0,0,0
+"uncons","Bulacan","u18","Other Causes",0,0,0
+"cons","Bulacan","all","Other Causes",0,0,0
+"cons","Bulacan","u18","Other Causes",0,0,0
+"uncons","Nueva Ecija","all","Other Causes",0,0,0
+"uncons","Nueva Ecija","u18","Other Causes",0,0,0
+"cons","Nueva Ecija","all","Other Causes",0,0,0
+"cons","Nueva Ecija","u18","Other Causes",0,0,0
+"uncons","Pampanga","all","Other Causes",1850.21873573997,1006.60321969804,2642.54334585466
+"cons","Pampanga","all","Other Causes",483.982089156192,282.506731160887,684.930793787165
+"uncons","Pampanga","u18","Other Causes",0,0,0
+"cons","Pampanga","u18","Other Causes",0,0,0
+"uncons","Tarlac","all","Other Causes",0,0,0
+"uncons","Tarlac","u18","Other Causes",0,0,0
+"cons","Tarlac","all","Other Causes",0,0,0
+"cons","Tarlac","u18","Other Causes",0,0,0
+"uncons","Zambales","all","Other Causes",0,0,0
+"uncons","Zambales","u18","Other Causes",0,0,0
+"cons","Zambales","all","Other Causes",0,0,0
+"cons","Zambales","u18","Other Causes",0,0,0
+"uncons","Batangas","all","Other Causes",802.854699416577,244.022793316321,1319.64409647944
+"cons","Batangas","all","Other Causes",288.809436541028,118.728619213055,451.440044615528
+"uncons","Batangas","u18","Other Causes",0,0,0
+"cons","Batangas","u18","Other Causes",0,0,0
+"uncons","Cavite","all","Other Causes",0,0,0
+"uncons","Cavite","u18","Other Causes",0,0,0
+"cons","Cavite","all","Other Causes",0,0,0
+"cons","Cavite","u18","Other Causes",0,0,0
+"uncons","Laguna","all","Other Causes",0,0,0
+"uncons","Laguna","u18","Other Causes",0,0,0
+"cons","Laguna","all","Other Causes",0,0,0
+"cons","Laguna","u18","Other Causes",0,0,0
+"uncons","Quezon","all","Other Causes",0,0,0
+"uncons","Quezon","u18","Other Causes",0,0,0
+"cons","Quezon","all","Other Causes",0,0,0
+"cons","Quezon","u18","Other Causes",0,0,0
+"uncons","Rizal","all","Other Causes",0,0,0
+"uncons","Rizal","u18","Other Causes",0,0,0
+"cons","Rizal","all","Other Causes",0,0,0
+"cons","Rizal","u18","Other Causes",0,0,0
+"uncons","Albay","all","Other Causes",1216.69157511438,550.824070524886,1851.81053621069
+"cons","Albay","all","Other Causes",531.360804892699,239.898718947705,810.198046913182
+"uncons","Albay","u18","Other Causes",74.5741810598514,28.7575690988014,116.889968052835
+"cons","Albay","u18","Other Causes",66.8251556082612,27.1244454584339,103.699996330618
+"uncons","Camarines Norte","all","Other Causes",0,0,0
+"uncons","Camarines Norte","u18","Other Causes",0,0,0
+"cons","Camarines Norte","all","Other Causes",0,0,0
+"cons","Camarines Norte","u18","Other Causes",0,0,0
+"uncons","Camarines Sur","all","Other Causes",861.568195586584,330.807144533174,1349.88398340598
+"cons","Camarines Sur","all","Other Causes",137.335606628038,44.6583350949545,224.410664797914
+"uncons","Camarines Sur","u18","Other Causes",75.342171960555,36.3010958869386,109.110625287907
+"cons","Camarines Sur","u18","Other Causes",0,0,0
+"uncons","Catanduanes","all","Other Causes",0,0,0
+"uncons","Catanduanes","u18","Other Causes",0,0,0
+"cons","Catanduanes","all","Other Causes",0,0,0
+"cons","Catanduanes","u18","Other Causes",0,0,0
+"uncons","Masbate","all","Other Causes",445.628682743321,168.228875822356,691.623793123001
+"cons","Masbate","all","Other Causes",53.2338570422234,28.3798779761781,76.7244579076075
+"uncons","Masbate","u18","Other Causes",165.915877478564,59.6370255865084,252.695677996147
+"cons","Masbate","u18","Other Causes",5.35249724836533,0.442743052553846,9.37992192092824
+"uncons","Sorsogon","all","Other Causes",0,0,0
+"uncons","Sorsogon","u18","Other Causes",0,0,0
+"cons","Sorsogon","all","Other Causes",0,0,0
+"cons","Sorsogon","u18","Other Causes",0,0,0
+"uncons","Aklan","all","Other Causes",0,0,0
+"uncons","Aklan","u18","Other Causes",0,0,0
+"cons","Aklan","all","Other Causes",0,0,0
+"cons","Aklan","u18","Other Causes",0,0,0
+"uncons","Antique","all","Other Causes",0,0,0
+"uncons","Antique","u18","Other Causes",0,0,0
+"cons","Antique","all","Other Causes",0,0,0
+"cons","Antique","u18","Other Causes",0,0,0
+"uncons","Capiz","all","Other Causes",0,0,0
+"uncons","Capiz","u18","Other Causes",0,0,0
+"cons","Capiz","all","Other Causes",0,0,0
+"cons","Capiz","u18","Other Causes",0,0,0
+"uncons","Iloilo","all","Other Causes",0,0,0
+"uncons","Iloilo","u18","Other Causes",0,0,0
+"cons","Iloilo","all","Other Causes",0,0,0
+"cons","Iloilo","u18","Other Causes",0,0,0
+"uncons","Negros Occidental","all","Other Causes",550.269389278409,186.867930286792,915.562297776833
+"cons","Negros Occidental","all","Other Causes",35.488584376959,13.2753131850851,58.4160430084877
+"uncons","Negros Occidental","u18","Other Causes",27.2679066454909,2.0221610744428,50.0633800840384
+"cons","Negros Occidental","u18","Other Causes",0,0,0
+"uncons","Guimaras","all","Other Causes",0,0,0
+"uncons","Guimaras","u18","Other Causes",0,0,0
+"cons","Guimaras","all","Other Causes",0,0,0
+"cons","Guimaras","u18","Other Causes",0,0,0
+"uncons","Bohol","all","Other Causes",0,0,0
+"uncons","Bohol","u18","Other Causes",0,0,0
+"cons","Bohol","all","Other Causes",0,0,0
+"cons","Bohol","u18","Other Causes",0,0,0
+"uncons","Cebu","all","Other Causes",284.357818671094,49.7792165800806,502.872549427666
+"cons","Cebu","all","Other Causes",233.537528148471,48.0860904127378,406.227101711978
+"uncons","Cebu","u18","Other Causes",0,0,0
+"cons","Cebu","u18","Other Causes",0,0,0
+"uncons","Negros Oriental","all","Other Causes",570.681225405359,216.703876964222,912.234772695902
+"cons","Negros Oriental","all","Other Causes",356.480619340292,170.205438225465,540.389288178531
+"uncons","Negros Oriental","u18","Other Causes",17.6470749700129,2.07188184615339,30.2237958294454
+"cons","Negros Oriental","u18","Other Causes",9.16723756896298,1.55404612697782,15.7795838127899
+"uncons","Siquijor","all","Other Causes",0,0,0
+"uncons","Siquijor","u18","Other Causes",0,0,0
+"cons","Siquijor","all","Other Causes",0,0,0
+"cons","Siquijor","u18","Other Causes",0,0,0
+"uncons","Leyte","all","Other Causes",0,0,0
+"uncons","Leyte","u18","Other Causes",0,0,0
+"cons","Leyte","all","Other Causes",0,0,0
+"cons","Leyte","u18","Other Causes",0,0,0
+"uncons","Northern Samar","all","Other Causes",0,0,0
+"uncons","Northern Samar","u18","Other Causes",0,0,0
+"cons","Northern Samar","all","Other Causes",0,0,0
+"cons","Northern Samar","u18","Other Causes",0,0,0
+"uncons","Samar","all","Other Causes",615.54831471957,264.741585739174,935.018652490995
+"cons","Samar","all","Other Causes",22.4229936402399,1.89998455345269,41.7820846818715
+"uncons","Samar","u18","Other Causes",0,0,0
+"cons","Samar","u18","Other Causes",0,0,0
+"uncons","Southern Leyte","all","Other Causes",0,0,0
+"uncons","Southern Leyte","u18","Other Causes",0,0,0
+"cons","Southern Leyte","all","Other Causes",0,0,0
+"cons","Southern Leyte","u18","Other Causes",0,0,0
+"uncons","Zamboanga del Norte","all","Other Causes",982.800501787807,473.201557409158,1459.60441102483
+"cons","Zamboanga del Norte","all","Other Causes",125.495082420717,51.3413592061435,195.828925877526
+"uncons","Zamboanga del Norte","u18","Other Causes",0,0,0
+"cons","Zamboanga del Norte","u18","Other Causes",0,0,0
+"uncons","Zamboanga del Sur","all","Other Causes",1217.93054567082,558.640138849232,1832.35670175069
+"cons","Zamboanga del Sur","all","Other Causes",25.6230055905455,11.4419466217744,38.4742929075572
+"uncons","Zamboanga del Sur","u18","Other Causes",0,0,0
+"cons","Zamboanga del Sur","u18","Other Causes",0,0,0
+"uncons","Zamboanga Sibugay","all","Other Causes",0,0,0
+"uncons","Zamboanga Sibugay","u18","Other Causes",0,0,0
+"cons","Zamboanga Sibugay","all","Other Causes",0,0,0
+"cons","Zamboanga Sibugay","u18","Other Causes",0,0,0
+"uncons","Bukidnon","all","Other Causes",0,0,0
+"uncons","Bukidnon","u18","Other Causes",0,0,0
+"cons","Bukidnon","all","Other Causes",0,0,0
+"cons","Bukidnon","u18","Other Causes",0,0,0
+"uncons","Lanao del Norte","all","Other Causes",0,0,0
+"uncons","Lanao del Norte","u18","Other Causes",0,0,0
+"cons","Lanao del Norte","all","Other Causes",0,0,0
+"cons","Lanao del Norte","u18","Other Causes",0,0,0
+"uncons","Misamis Occidental","all","Other Causes",1127.74367954178,553.700804579101,1670.87006257422
+"cons","Misamis Occidental","all","Other Causes",82.6882380013487,32.3032389233816,131.132451747085
+"uncons","Misamis Occidental","u18","Other Causes",147.420725553892,44.1071471368807,234.296508375844
+"cons","Misamis Occidental","u18","Other Causes",9.379972326453,1.30815419023464,16.1162965509496
+"uncons","Misamis Oriental","all","Other Causes",1206.0740682657,299.429275973031,2035.21123086689
+"cons","Misamis Oriental","all","Other Causes",107.02725659217,26.5138363729857,181.542163997706
+"uncons","Misamis Oriental","u18","Other Causes",0,0,0
+"cons","Misamis Oriental","u18","Other Causes",0,0,0
+"uncons","Davao del Norte","all","Other Causes",1883.99523266621,1202.98457883328,2526.37500293579
+"cons","Davao del Norte","all","Other Causes",208.73141686697,78.6367910013773,330.675852679097
+"uncons","Davao del Norte","u18","Other Causes",27.3452434440858,4.0020840154798,48.3078643725899
+"cons","Davao del Norte","u18","Other Causes",0,0,0
+"uncons","Davao del Sur","all","Other Causes",732.103880453657,363.201451080432,1084.87403269659
+"cons","Davao del Sur","all","Other Causes",143.22965960787,86.002481773962,199.398930059853
+"uncons","Davao del Sur","u18","Other Causes",370.811777030923,146.941848406937,575.570706912723
+"cons","Davao del Sur","u18","Other Causes",0,0,0
+"uncons","Davao Oriental","all","Other Causes",0,0,0
+"uncons","Davao Oriental","u18","Other Causes",0,0,0
+"cons","Davao Oriental","all","Other Causes",0,0,0
+"cons","Davao Oriental","u18","Other Causes",0,0,0
+"uncons","Compostela Valley","all","Other Causes",64.2827760292952,9.73492522827303,111.284227096737
+"cons","Compostela Valley","all","Other Causes",64.2827760292952,9.73492522827303,111.284227096737
+"uncons","Compostela Valley","u18","Other Causes",0,0,0
+"cons","Compostela Valley","u18","Other Causes",0,0,0
+"uncons","Cotabato","all","Other Causes",384.253838564041,241.263765623403,519.915059984792
+"cons","Cotabato","all","Other Causes",384.253838564041,241.263765623403,519.915059984792
+"uncons","Cotabato","u18","Other Causes",14.9861144703025,3.27460297371101,24.6981913095899
+"cons","Cotabato","u18","Other Causes",14.9861144703025,3.27460297371101,24.6981913095899
+"uncons","South Cotabato","all","Other Causes",568.985100948382,224.189543194399,895.947882461504
+"cons","South Cotabato","all","Other Causes",111.57112014526,38.855070042881,180.672274363466
+"uncons","South Cotabato","u18","Other Causes",49.7434902933042,16.4570941981619,79.9525345535334
+"cons","South Cotabato","u18","Other Causes",0,0,0
+"uncons","Sultan Kudarat","all","Other Causes",1248.45464732139,813.311852088561,1653.96861588443
+"cons","Sultan Kudarat","all","Other Causes",426.219167236564,252.359550719461,586.224572286706
+"uncons","Sultan Kudarat","u18","Other Causes",16.9699866996301,2.93219448561118,27.3607766870457
+"cons","Sultan Kudarat","u18","Other Causes",16.9699866996301,2.93219448561118,27.3607766870457
+"uncons","Sarangani","all","Other Causes",0,0,0
+"uncons","Sarangani","u18","Other Causes",0,0,0
+"cons","Sarangani","all","Other Causes",0,0,0
+"cons","Sarangani","u18","Other Causes",0,0,0
+"uncons","National Capital Region","all","Other Causes",3065.4060121685,1129.52515807632,4870.765704109
+"cons","National Capital Region","all","Other Causes",796.355870229454,287.826844988121,1278.28915920404
+"uncons","National Capital Region","u18","Other Causes",0,0,0
+"cons","National Capital Region","u18","Other Causes",0,0,0
+"uncons","Abra","all","Other Causes",0,0,0
+"uncons","Abra","u18","Other Causes",0,0,0
+"cons","Abra","all","Other Causes",0,0,0
+"cons","Abra","u18","Other Causes",0,0,0
+"uncons","Benguet","all","Other Causes",732.714188651738,401.280801353001,1047.90671373611
+"cons","Benguet","all","Other Causes",6.33043451895581,3.67460049134454,8.98381806571099
+"uncons","Benguet","u18","Other Causes",0,0,0
+"cons","Benguet","u18","Other Causes",0,0,0
+"uncons","Ifugao","all","Other Causes",0,0,0
+"uncons","Ifugao","u18","Other Causes",0,0,0
+"cons","Ifugao","all","Other Causes",0,0,0
+"cons","Ifugao","u18","Other Causes",0,0,0
+"uncons","Kalinga","all","Other Causes",0,0,0
+"uncons","Kalinga","u18","Other Causes",0,0,0
+"cons","Kalinga","all","Other Causes",0,0,0
+"cons","Kalinga","u18","Other Causes",0,0,0
+"uncons","Apayao","all","Other Causes",0,0,0
+"uncons","Apayao","u18","Other Causes",0,0,0
+"cons","Apayao","all","Other Causes",0,0,0
+"cons","Apayao","u18","Other Causes",0,0,0
+"uncons","Agusan del Norte","all","Other Causes",188.657790509609,59.5435396362816,307.381326065984
+"cons","Agusan del Norte","all","Other Causes",82.2582130333606,27.4097996326538,138.971444643835
+"uncons","Agusan del Norte","u18","Other Causes",29.2138111272376,3.97156033408384,48.2159753421517
+"cons","Agusan del Norte","u18","Other Causes",4.73714249874186,0.368238561425896,8.04466356975496
+"uncons","Agusan del Sur","all","Other Causes",787.56418151499,375.6760595006,1150.44560149225
+"cons","Agusan del Sur","all","Other Causes",98.7154629923033,37.9330929713974,149.783241427426
+"uncons","Agusan del Sur","u18","Other Causes",26.0487914021807,2.56386614483288,44.3252427657354
+"cons","Agusan del Sur","u18","Other Causes",0,0,0
+"uncons","Surigao del Norte","all","Other Causes",349.653214389616,87.2237639979671,591.976578566978
+"cons","Surigao del Norte","all","Other Causes",33.530208946485,8.71403161770733,56.9711010880465
+"uncons","Surigao del Norte","u18","Other Causes",16.859403320922,3.7440668287795,27.638068794055
+"cons","Surigao del Norte","u18","Other Causes",0,0,0
+"uncons","Surigao del Sur","all","Other Causes",752.754769183549,397.639463835639,1081.7060737585
+"cons","Surigao del Sur","all","Other Causes",3.93775822244723,1.11568299060779,6.42827512979422
+"uncons","Surigao del Sur","u18","Other Causes",36.9356242160062,10.8938990375497,57.8868046818541
+"cons","Surigao del Sur","u18","Other Causes",0,0,0
+"uncons","Occidental Mindoro","all","Other Causes",0,0,0
+"uncons","Occidental Mindoro","u18","Other Causes",0,0,0
+"cons","Occidental Mindoro","all","Other Causes",0,0,0
+"cons","Occidental Mindoro","u18","Other Causes",0,0,0
+"uncons","Oriental Mindoro","all","Other Causes",186.00111087428,48.3817489443396,320.674717300403
+"cons","Oriental Mindoro","all","Other Causes",25.6845946578851,6.85743106188073,44.512319486797
+"uncons","Oriental Mindoro","u18","Other Causes",0,0,0
+"cons","Oriental Mindoro","u18","Other Causes",0,0,0
+"uncons","Palawan","all","Other Causes",0,0,0
+"uncons","Palawan","u18","Other Causes",0,0,0
+"cons","Palawan","all","Other Causes",0,0,0
+"cons","Palawan","u18","Other Causes",0,0,0
