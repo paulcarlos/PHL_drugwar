@@ -14,4 +14,5 @@
 4. Weeks with higher-than-expected firearm deaths ("fira_signifweeks.csv")
 5. Weeks of natural-cause deaths that co-incide with higher-than-expected firearm deaths weeks ("others_signifweeks.csv")
 6. Table of excess deaths ("summary_kills_prov-type.csv")
-7. Other datasets are too large to upload. Can be requested via email: paulcarloschua@gmail.com
+7. Weekly relative risks for War on Drugs ("relativerisks_allage.csv" & "relativerisks_under18.csv")
+8. Other datasets are too large to upload. Can be requested via email: paulcarloschua@gmail.com
