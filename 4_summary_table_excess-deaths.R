@@ -7,11 +7,11 @@ dut <- seq(ymd(20160630),ymd(20200126),1) # Duterte presidency without COVID tim
 dutwk <- unique(paste0(isoyear(dut),"-",sprintf("%02d",isoweek(dut))))
 
 # upload data
-load("modeloutputs_allage.rda")
+rrdf <- read.csv("relativerisks_allage.csv")
 all <- rrdf[!is.na(rrdf$rr) & rrdf$dwar %in% dutwk,]
-load("modeloutputs_under18.rda")
+rrdf <- read.csv("relativerisks_allage.csv")
 u18 <- rrdf[!is.na(rrdf$rr) & rrdf$dwar %in% dutwk,]
-rm(modlist,rrdf)
+rm(rrdf)
 
 # get significant week table
 s1 <- read.csv("fira_signifweeks.csv")
