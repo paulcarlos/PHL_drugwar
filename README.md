@@ -11,4 +11,8 @@
 ## Data 
 1. Weekly aggregated ACLED War on Drugs fatalities
 2. Geocodes of Philippine provinces
-3. 
+3. Weekly deaths per province (only for peer-review, to be deleted)
+4. qAIC function
+5. Sample portion of mortality records (only for peer-review, to be deleted)
+6. Significantly elevated mortality weeks
+7. Sample metadata of mortality records (only for peer-review, to be deleted)
